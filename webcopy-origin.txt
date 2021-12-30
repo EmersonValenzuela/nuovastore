@@ -1,0 +1,2180 @@
+Uri: https://nuova-retail.com/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: 
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/x-font-woff
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\nuova-retail.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/feed/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://nuova-retail.com/comments/feed/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://nuova-retail.com/wp-content/plugins/chaty/css/chaty-front.min.css?ver=1624691060
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\chaty\css\chaty-front.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Rubik:300,300italic,regular,italic,500,500italic,700,700italic,900,900italic
+File Name: C:\Downloaded Web Sites\nuova-retail.com\css.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.0.4
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\themes\generatepress\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.5.7
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\jet-elements\assets\css\jet-elements.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/plugins/jet-elements/assets/css/jet-elements-skin.css?ver=2.5.7
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\jet-elements\assets\css\jet-elements-skin.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.3
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-12.css?ver=1630961246
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.2.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/plugins/emage-hover-effects-for-elementor/assets/css/style.min.css?ver=4.3.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\emage-hover-effects-for-elementor\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/global.css?ver=1630961246
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-33.css?ver=1630961246
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-33.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-24.css?ver=1630961246
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-24.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-88.css?ver=1630961246
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-88.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Rubik:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\css-1.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/pages/33
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\pages\33.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\nuova-retail.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://nuova-retail.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cropped-icono-1-32x32.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cropped-icono-1-32x32.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cropped-icono-1-192x192.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cropped-icono-1-192x192.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cropped-icono-1-180x180.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cropped-icono-1-180x180.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/Nuova-Retail-102970078711502
+File Name: C:\Downloaded Web Sites\nuova-retail.com\Nuova-Retail-102970078711502.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre...
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/gondolas-metalicas/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\gondolas-metalicas\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/gondolas-melamina/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\gondolas-melamina\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/modulos-de-pago/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\modulos-de-pago\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/modulos-de-licores/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\modulos-de-licores\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/modulos-agranel/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\modulos-agranel\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/accesorios/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\accesorios\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/verduleros-y-fruteros/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\verduleros-y-fruteros\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/visicoolers/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\visicoolers\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/como-mantener-limpias-los-modulos-de-licor/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\como-mantener-limpias-los-modulos-de-licor\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/como-mantener-limpias-las-gondolas-de-melamine/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\como-mantener-limpias-las-gondolas-de-melamine\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/como-mantener-limpias-las-gondolas-metalicas/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\como-mantener-limpias-las-gondolas-metalicas\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/politicas-de-privacidad/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\politicas-de-privacidad\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.3
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/chaty/js/cht-front-script.js?ver=1624691060
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\chaty\js\cht-front-script.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-206503522-1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cropped-logotipo-nuova-retail.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cropped-logotipo-nuova-retail.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metalica.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metalica.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metamine.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metamine.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-pago.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-pago.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/carrito-de-un-piso-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\carrito-de-un-piso-min.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/verdulero.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\verdulero.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/coleers.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\coleers.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-3.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-3.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-2.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-2.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-1.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-1.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/logo-footer-1.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\logo-footer-1.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/themes/generatepress/assets/js/main.min.js?ver=3.0.4
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\themes\generatepress\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-includes/js/wp-embed.min.js?ver=5.8.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/jet-elements/assets/js/lib/anime-js/anime.min.js?ver=2.2.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\jet-elements\assets\js\lib\anime-js\anime.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.2.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.2.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.2.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.2.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor-pro\assets\js\preloaded-elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.5.7
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\jet-elements\assets\js\jet-elements.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metalica-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metalica-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metalica-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metalica-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metalica-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metalica-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metalica-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metalica-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metalica-600x600.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metalica-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metalica-100x100.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metalica-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metamine-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metamine-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metamine-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metamine-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metamine-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metamine-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metamine-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metamine-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metamine-600x600.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metamine-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metamine-100x100.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-metamine-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-pago-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-pago-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-pago-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-pago-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-pago-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-pago-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-pago-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-pago-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-pago-600x600.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-pago-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-pago-100x100.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-pago-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/carrito-de-un-piso-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\carrito-de-un-piso-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/carrito-de-un-piso-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\carrito-de-un-piso-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/carrito-de-un-piso-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\carrito-de-un-piso-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/carrito-de-un-piso-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\carrito-de-un-piso-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/verdulero-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\verdulero-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/verdulero-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\verdulero-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/verdulero-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\verdulero-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/verdulero-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\verdulero-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/verdulero-600x600.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\verdulero-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/verdulero-100x100.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\verdulero-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/coleers-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\coleers-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/coleers-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\coleers-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/coleers-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\coleers-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/coleers-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\coleers-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/coleers-600x600.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\coleers-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/coleers-100x100.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\coleers-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-3-300x158.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-3-300x158.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-3-1024x538.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-3-1024x538.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-3-768x403.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-3-768x403.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-3-600x315.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-3-600x315.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-2-300x158.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-2-300x158.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-2-1024x538.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-2-1024x538.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-2-768x403.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-2-768x403.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-2-600x315.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-2-600x315.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-1-300x158.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-1-300x158.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-1-1024x538.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-1-1024x538.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-1-768x403.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-1-768x403.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/entrada-1-600x315.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\entrada-1-600x315.png
+Content Type: image/png
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\index-1.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/plugins/chaty/images/whatsapp.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\chaty\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/plugins/jet-elements/assets/images/dummy-map.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\jet-elements\assets\images\dummy-map.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.12.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.12.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: 
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.12.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: application/x-font-woff
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.12.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.12.0
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/slider-1-gondolas.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\slider-1-gondolas.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/slider-2-melamine-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\slider-2-melamine-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cotiza-2.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cotiza-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: https://nuova-retail.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-168.css?ver=1631048451
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-168.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/pages/168
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\pages\168.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fgondolas-metalicas%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fgondolas-metalicas%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización sobre la Góndola Central con dos Cabeceras 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-1.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-1.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-dos-cabeceras-1.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-pared-troquelada-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-pared-troquelada-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización sobre la Góndola Pared Troquelada 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-2.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización sobre la Góndola Central para Snack 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-3.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-de-malla-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-de-malla-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización sobre la Góndola Central de Malla 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-4.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización sobre...
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-5.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-de-pared-2.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-de-pared-2.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola de Pared 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-6.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-2-cabeceras-troqueladas.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-2-cabeceras-troqueladas.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Central con 2 Cabeceras Troquelada 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-7.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-de-malla-2.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-de-malla-2.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Central de Malla 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-8.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-de-pared-con-ganchos.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-de-pared-con-ganchos.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola de Pared con Ganchos 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-9.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/gondola-central-color-personalizado.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\gondola-central-color-personalizado.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Central Color Personalizado 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-10.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/gondola-de-pared-esquinera-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\gondola-de-pared-esquinera-min.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola de Pared Esquinera 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-11.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-1-cabecera-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-1-cabecera-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Central con 1 Cabecera 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-12.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-cabecera-de-malla-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-cabecera-de-malla-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Cabecera de Malla 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-13.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito asesoría de implementación de proyectos 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-14.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.4699592108636!2d-76.87865534922084!3d-12.011133044468094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c3b85c3b6feb:0x16dffbb464ee3fb8!2sNuova Retail!5e0!3m2!1ses!2spe!4v1624646498207!5m2!1ses!2spe
+File Name: C:\Downloaded Web Sites\nuova-retail.com\maps\embed.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/plugins/jet-elements/assets/js/lib/slick/slick.min.js?ver=1.8.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\jet-elements\assets\js\lib\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-1-300x300.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-dos-cabeceras-1-300x300.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-1-1024x1024.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-dos-cabeceras-1-1024x1024.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-1-150x150.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-dos-cabeceras-1-150x150.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-1-768x768.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-dos-cabeceras-1-768x768.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-pared-troquelada-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-pared-troquelada-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-pared-troquelada-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-pared-troquelada-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-pared-troquelada-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-pared-troquelada-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-pared-troquelada-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-pared-troquelada-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/gondola-central-de-snack-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\gondola-central-de-snack-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/gondola-central-de-snack-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\gondola-central-de-snack-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/gondola-central-de-snack-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\gondola-central-de-snack-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-de-malla-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-de-malla-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-de-malla-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-de-malla-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-de-malla-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-de-malla-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-de-malla-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-de-malla-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/asesoria-2-min-200x300.png
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\asesoria-2-min-200x300.png
+Content Type: image/png
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-351.css?ver=1631043349
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-351.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/pages/351
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\pages\351.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fgondolas-melamina%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fgondolas-melamina%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Central con dos Cabeceras de Melamina 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-15.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-dos-cabeceras-de-melamina.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-pared-de-melamina-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-pared-de-melamina-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Pared de Melamina 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-16.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Isla de Melamina 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-17.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-isla-de-melamina-2.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-isla-de-melamina-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/Gondola-cabecera-de-melamina.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\Gondola-cabecera-de-melamina.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Cabecera de Melamina 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-18.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-de-melamina-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-de-melamina-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Central de Melamina 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-19.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-1-cabecera-de-melamina.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-1-cabecera-de-melamina.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Central con 1 Cabecera de Melamina 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-20.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-piramidal-de-melamina.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-piramidal-de-melamina.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Piramidal de Melamina 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-21.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-melamine-isla.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-melamine-isla.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización de la Góndola Melamine%252Isla 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-22.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-dos-cabeceras-de-melamina-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-dos-cabeceras-de-melamina-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-dos-cabeceras-de-melamina-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-central-con-dos-cabeceras-de-melamina-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-pared-de-melamina-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-pared-de-melamina-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-pared-de-melamina-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-pared-de-melamina-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-pared-de-melamina-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-pared-de-melamina-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-isla-de-melamina-2-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-isla-de-melamina-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-isla-de-melamina-2-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-isla-de-melamina-2-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-isla-de-melamina-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-isla-de-melamina-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/gondola-isla-de-melamina-2-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\gondola-isla-de-melamina-2-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-395.css?ver=1631020382
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-395.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/pages/395
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\pages\395.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fmodulos-de-pago%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fmodulos-de-pago%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Módulo de Pago Completo 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-23.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/modulo-de-pago-completo.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\modulo-de-pago-completo.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/checkout-melamina.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\checkout-melamina.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Check Out Melamina 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-24.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-pago-completo-con-vidrio.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-pago-completo-con-vidrio.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Módulo de Caja con Vidrios Frontales 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-25.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Módulo de Pago Central 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-26.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/check-out-en-forma-de-u.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\check-out-en-forma-de-u.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Check Out en forma de U 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-27.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/chek-out-en-forma-de-l-con-bandejas-frontales.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\chek-out-en-forma-de-l-con-bandejas-frontales.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Check Out en forma de L con Bandejas Frontales 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-28.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/check-out-en-forma-de-l-con-bandejas-laterales.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\check-out-en-forma-de-l-con-bandejas-laterales.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Check Out en forma de L con Bandejas Laterales 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-29.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/check-out-en-forma-de-l-circular.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\check-out-en-forma-de-l-circular.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Check Out en forma de L Circular 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-30.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/check-out-importado-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\check-out-importado-min.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Check Out Modelo Importado 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-31.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/modulo-de-pago-completo-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\modulo-de-pago-completo-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/modulo-de-pago-completo-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\modulo-de-pago-completo-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/modulo-de-pago-completo-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\modulo-de-pago-completo-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/modulo-de-pago-completo-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\modulo-de-pago-completo-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/checkout-melamina-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\checkout-melamina-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/checkout-melamina-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\checkout-melamina-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/checkout-melamina-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\checkout-melamina-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/checkout-melamina-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\checkout-melamina-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-468.css?ver=1630991468
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-468.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/pages/468
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\pages\468.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fmodulos-de-licores%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fmodulos-de-licores%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Módulo de Licor Simple 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-32.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-licor-simple.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-licor-simple.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-licor-doble.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-licor-doble.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Módulo de Licor Doble 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-33.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-licores-con-cigarrero.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-licores-con-cigarrero.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Módulo de Licores con Cigarrero 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-34.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-licores-con-luces-dicroicos.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-licores-con-luces-dicroicos.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋  Solicito una cotización del Módulo de Licores con Luces Dicroicos 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-35.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/cigarrero-aereo-personalizado.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\cigarrero-aereo-personalizado.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Cigarrero Aéreo Personalizado 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-36.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-respaldar.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-respaldar.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Módulo Respaldar 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-37.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-licor-simple-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-licor-simple-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-licor-simple-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-de-licor-simple-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-542.css?ver=1631048444
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-542.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/pages/542
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\pages\542.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fmodulos-agranel%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fmodulos-agranel%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Módulo Agranel 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-38.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-agranel-personalizado.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-agranel-personalizado.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Módulo Agranel Personalizado 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-39.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-agranel-central-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-agranel-central-min.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Módulo Agranel Central 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-40.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-agranel-2.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-agranel-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-agranel-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-agranel-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-agranel-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-agranel-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-agranel-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-agranel-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/modulo-agranel-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\modulo-agranel-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-634.css?ver=1631037387
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-634.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/pages/634
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\pages\634.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Faccesorios%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Faccesorios%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-compras.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-de-compras.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Carrito de Compras 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-41.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-un-piso.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-de-un-piso.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Carrito de un Piso 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-42.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-doble-piso.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-doble-piso.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Carrito de Doble Piso 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-43.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Canasto con Ruedas 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-44.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cajas-cosecheras-cana-alta.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cajas-cosecheras-cana-alta.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Cajas Cosecheras Caña Alta 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-45.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cajas-cosecheras-cana-baja.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cajas-cosecheras-cana-baja.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Cajas Cosecheras Caña Baja 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-46.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-de-mano-con-asas-de-metal.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-de-mano-con-asas-de-metal.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Canasto de Mano con Asas de Metal 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-47.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Canasto de Mano con Asas de PVC 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-48.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cesto-de-osb.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cesto-de-osb.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Cesto de OSB 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-49.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/cesto-de-melamina.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\cesto-de-melamina.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Cesto de Melamina 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-50.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/portaprecios-con-ganchos.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\portaprecios-con-ganchos.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Ganchos Doble con Portaprecios 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-51.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/portaprecio.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\portaprecio.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Portaprecio 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-52.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/rejillas-cromadas-min-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\rejillas-cromadas-min-min.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Rejillas Cromadas 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-53.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/barra-metalica-para-ganchos-min-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\barra-metalica-para-ganchos-min-min.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización sobre Barra Metálica para Ganchos 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-54.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-compras-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-de-compras-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-compras-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-de-compras-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-compras-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-de-compras-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-compras-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-de-compras-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-un-piso-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-de-un-piso-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-un-piso-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-de-un-piso-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-un-piso-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-de-un-piso-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-un-piso-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-de-un-piso-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-doble-piso-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-doble-piso-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-doble-piso-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-doble-piso-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-doble-piso-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-doble-piso-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/carrito-doble-piso-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\carrito-doble-piso-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-con-ruedas-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-con-ruedas-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-con-ruedas-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-con-ruedas-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-con-ruedas-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-con-ruedas-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-con-ruedas-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-con-ruedas-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cajas-cosecheras-cana-alta-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cajas-cosecheras-cana-alta-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cajas-cosecheras-cana-alta-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cajas-cosecheras-cana-alta-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cajas-cosecheras-cana-alta-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cajas-cosecheras-cana-alta-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cajas-cosecheras-cana-alta-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cajas-cosecheras-cana-alta-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cajas-cosecheras-cana-baja-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cajas-cosecheras-cana-baja-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cajas-cosecheras-cana-baja-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cajas-cosecheras-cana-baja-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cajas-cosecheras-cana-baja-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cajas-cosecheras-cana-baja-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cajas-cosecheras-cana-baja-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cajas-cosecheras-cana-baja-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-de-mano-con-asas-de-metal-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-de-mano-con-asas-de-metal-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-de-mano-con-asas-de-metal-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-de-mano-con-asas-de-metal-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-de-mano-con-asas-de-metal-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-de-mano-con-asas-de-metal-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-de-mano-con-asas-de-metal-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-de-mano-con-asas-de-metal-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/canasto-de-mano-con-asas-de-pvc-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\canasto-de-mano-con-asas-de-pvc-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/canasto-de-mano-con-asas-de-pvc-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\canasto-de-mano-con-asas-de-pvc-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/canasto-de-mano-con-asas-de-pvc-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\canasto-de-mano-con-asas-de-pvc-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/canasto-de-mano-con-asas-de-pvc-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\canasto-de-mano-con-asas-de-pvc-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-con-ruedas-2-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-con-ruedas-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-con-ruedas-2-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-con-ruedas-2-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-con-ruedas-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-con-ruedas-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/canasto-con-ruedas-2-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\canasto-con-ruedas-2-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cesto-de-osb-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cesto-de-osb-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cesto-de-osb-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cesto-de-osb-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cesto-de-osb-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cesto-de-osb-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/cesto-de-osb-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\cesto-de-osb-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/cesto-de-melamina-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\cesto-de-melamina-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/cesto-de-melamina-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\cesto-de-melamina-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/cesto-de-melamina-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\cesto-de-melamina-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/cesto-de-melamina-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\cesto-de-melamina-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/portaprecios-con-ganchos-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\portaprecios-con-ganchos-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/portaprecios-con-ganchos-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\portaprecios-con-ganchos-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/portaprecios-con-ganchos-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\portaprecios-con-ganchos-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/portaprecios-con-ganchos-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\portaprecios-con-ganchos-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/portaprecio-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\portaprecio-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/portaprecio-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\portaprecio-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/portaprecio-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\portaprecio-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/portaprecio-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\portaprecio-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/rejillas-cromadas-min-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\rejillas-cromadas-min-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/rejillas-cromadas-min-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\rejillas-cromadas-min-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/rejillas-cromadas-min-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\rejillas-cromadas-min-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/rejillas-cromadas-min-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\rejillas-cromadas-min-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/rejillas-cromadas-min-min-600x600.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\rejillas-cromadas-min-min-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/rejillas-cromadas-min-min-100x100.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\rejillas-cromadas-min-min-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/barra-metalica-para-ganchos-min-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\barra-metalica-para-ganchos-min-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/barra-metalica-para-ganchos-min-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\barra-metalica-para-ganchos-min-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/barra-metalica-para-ganchos-min-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\barra-metalica-para-ganchos-min-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/barra-metalica-para-ganchos-min-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\barra-metalica-para-ganchos-min-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/barra-metalica-para-ganchos-min-min-600x600.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\barra-metalica-para-ganchos-min-min-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/barra-metalica-para-ganchos-min-min-100x100.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\barra-metalica-para-ganchos-min-min-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-513.css?ver=1631048448
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-513.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/pages/513
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\pages\513.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fverduleros-y-fruteros%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fverduleros-y-fruteros%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Verdulero 3x4 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-55.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-metalico-3x4-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-metalico-3x4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-2x4-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-2x4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Verdulero 2x4 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-56.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-1x4-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-1x4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Verdulero 1x4 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-57.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-metalico-3x4-con-portabolsa.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-metalico-3x4-con-portabolsa.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Verdulero 2x3 con Estructura Portabolsa y Letreros 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-58.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-metalico-2x2-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-metalico-2x2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Verdulero Metalico de 2x2  😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-59.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-metalico-2x4-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-metalico-2x4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Verdulero Metalico de 2x4  😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-60.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-3x4-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-3x4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-4x4-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-4x4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Verdulero 4x4 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-61.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-4x3-obs.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-4x3-obs.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Verdulero 4x3 OBS 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-62.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-con-disenos-personalizados.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-con-disenos-personalizados.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Verdulero con Diseños Personalizados 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-63.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-4x3-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-4x3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Verdulero 4x3 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-64.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-3x4-rojo-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-3x4-rojo-min.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito cotización de Verdulero 3x4 Rojo 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-65.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-metalico-3x4-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-metalico-3x4-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-metalico-3x4-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-metalico-3x4-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-metalico-3x4-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-metalico-3x4-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-metalico-3x4-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-metalico-3x4-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-2x4-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-2x4-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-2x4-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-2x4-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-2x4-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-2x4-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/07/verdulero-2x4-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\07\verdulero-2x4-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-733.css?ver=1631010383
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-733.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/pages/733
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\pages\733.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fvisicoolers%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fvisicoolers%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-370l-min-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-370l-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización de la Visicooler de 370 L. 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-66.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-540l-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-540l-min.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización de la Visicooler de 540 L. 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-67.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-600l-min-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-600l-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización de la Visicooler de 600 L. 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-68.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-800l-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-800l-min.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización de la Visicooler de 800 L. 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-69.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-850g-min-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-850g-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización de la Visicooler de 850 G. 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-70.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-1000ls-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-1000ls-min.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización de la Visicooler de 1000 LS. 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-71.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-1200l-min-1.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-1200l-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización de la Visicooler de 1200 L 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-72.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-f-de-370w-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-f-de-370w-min.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=51912151653&text=¡Hola! 👋 Solicito una cotización de la Visicooler F de 370W 😀
+File Name: C:\Downloaded Web Sites\nuova-retail.com\send-73.html
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-370l-min-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-370l-min-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-370l-min-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-370l-min-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-370l-min-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-370l-min-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-370l-min-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-370l-min-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-370l-min-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-370l-min-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-370l-min-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-370l-min-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-540l-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-540l-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-540l-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-540l-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-540l-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-540l-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-540l-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-540l-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-600l-min-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-600l-min-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-600l-min-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-600l-min-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-600l-min-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-600l-min-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-600l-min-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-600l-min-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-600l-min-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-600l-min-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-600l-min-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-600l-min-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-800l-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-800l-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-800l-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-800l-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-800l-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-800l-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-800l-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-800l-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-850g-min-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-850g-min-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-850g-min-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-850g-min-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-850g-min-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-850g-min-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-850g-min-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-850g-min-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-850g-min-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-850g-min-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-850g-min-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-850g-min-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-1000ls-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-1000ls-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-1000ls-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-1000ls-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-1000ls-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-1000ls-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-1000ls-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-1000ls-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-1200l-min-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-1200l-min-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-1200l-min-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-1200l-min-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-1200l-min-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-1200l-min-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-1200l-min-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-1200l-min-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-1200l-min-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-1200l-min-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-de-1200l-min-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-de-1200l-min-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-f-de-370w-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-f-de-370w-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-f-de-370w-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-f-de-370w-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-f-de-370w-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-f-de-370w-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/visicooler-f-de-370w-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\visicooler-f-de-370w-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\admin\images\templately\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1635964602
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Rubik:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\css-2.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/posts/102
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\posts\102.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fcomo-mantener-limpias-los-modulos-de-licor%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fcomo-mantener-limpias-los-modulos-de-licor%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://nuova-retail.com/author/c1751400/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\author\c1751400\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/category/noticias/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\category\noticias\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/tag/modulos-de-pago/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\tag\modulos-de-pago\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1635964602
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/como-mantener-limpias-las-gondolas-de-melamine/feed/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\como-mantener-limpias-las-gondolas-de-melamine\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1635964614
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-1.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-content/themes/generatepress/assets/css/components/comments.min.css?ver=3.0.4
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\themes\generatepress\assets\css\components\comments.min.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/posts/99
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\posts\99.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fcomo-mantener-limpias-las-gondolas-de-melamine%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fcomo-mantener-limpias-las-gondolas-de-melamine%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://nuova-retail.com/category/consejos/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\category\consejos\index.htm
+Content Type: text/html
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1635964614
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-1.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-includes/js/comment-reply.min.js?ver=5.8.1
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/como-mantener-limpias-las-gondolas-metalicas/feed/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\como-mantener-limpias-las-gondolas-metalicas\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1635964622
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-2.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/posts/95
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\posts\95.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fcomo-mantener-limpias-las-gondolas-metalicas%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fcomo-mantener-limpias-las-gondolas-metalicas%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1635964622
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-2.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/wp-content/uploads/elementor/css/post-893.css?ver=1631048493
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\elementor\css\post-893.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/pages/893
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\pages\893.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fpoliticas-de-privacidad%2F
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuova-retail.com%2Fpoliticas-de-privacidad%2F&format=xml
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/slider-gondola-metalica.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\slider-gondola-metalica.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/fondo-gondolas.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\fondo-gondolas.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/auto.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\auto.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/slider-2-melamine.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\slider-2-melamine.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/slider-3-modulo-pago.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\slider-3-modulo-pago.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/slider-4-modulo-de-licor.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\slider-4-modulo-de-licor.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/slider-6-agranel-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\slider-6-agranel-min.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/slider-7-accesorios-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\slider-7-accesorios-min.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/slider-5-frutero-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\slider-5-frutero-min.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/2021/06/slider-8-visicooler-min.jpg
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\2021\06\slider-8-visicooler-min.jpg
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/author/c1751400/feed/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\author\c1751400\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1635966322
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-3.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/users/2
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\users\2.json
+Content Type: application/json
+
+Uri: https://secure.gravatar.com/avatar/fc6243e8752e027a415cde3f6133f978?s=50&d=mm&r=g
+File Name: C:\Downloaded Web Sites\nuova-retail.com\avatar\fc6243e8752e027a415cde3f6133f978.png
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1635966322
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-3.js
+Content Type: application/javascript
+
+Uri: https://secure.gravatar.com/avatar/fc6243e8752e027a415cde3f6133f978?s=100&d=mm&r=g
+File Name: C:\Downloaded Web Sites\nuova-retail.com\avatar\fc6243e8752e027a415cde3f6133f978-1.png
+Content Type: image/jpeg
+
+Uri: https://nuova-retail.com/category/noticias/feed/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\category\noticias\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1635966324
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-4.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/categories/21
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\categories\21.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1635966324
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-4.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/tag/modulos-de-pago/feed/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\tag\modulos-de-pago\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1635966325
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-5.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/tags/22
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\tags\22.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1635966325
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-5.js
+Content Type: application/javascript
+
+Uri: https://nuova-retail.com/category/consejos/feed/
+File Name: C:\Downloaded Web Sites\nuova-retail.com\category\consejos\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1635966333
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-6.css
+Content Type: text/css
+
+Uri: https://nuova-retail.com/wp-json/wp/v2/categories/20
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-json\wp\v2\categories\20.json
+Content Type: application/json
+
+Uri: https://nuova-retail.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1635966333
+File Name: C:\Downloaded Web Sites\nuova-retail.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-6.js
+Content Type: application/javascript
+
