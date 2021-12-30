@@ -105,6 +105,84 @@
 		background: #e9443e;
 		transition: all ease-in-out 0.3s;
 	}
+	.whatsapp-movil{
+  display: none;
+}
+
+.btn-whatsapp{
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background: #009345;
+  position: fixed;
+  right: 0;
+  padding: 5px 10px 5px;
+  color: white;
+  z-index: 1500;
+  top: 65%;
+  font-size: 18px;
+  text-align: center;
+  border: 2px solid #fff;
+}
+
+.btn-whatsapp.btn-atencion{
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background: #009345;
+  position: fixed;
+  right: 0;
+  padding: 0 10px;
+  color: white;
+  z-index: 1500;
+  top: 60%;
+  font-size: 18px;
+  text-align: center;
+  border: none;
+}
+
+.btn-whatsapp.btn-atencion p{
+    margin-bottom: 0;
+    color: #fff;
+}
+
+.btn-whatsapp i{
+  color: white;
+  font-size: 2.8em;
+  margin-right: 5px;
+}
+
+.btn-whatsapp label{
+  display: inline-block;
+  color: white;
+}
+
+.btn-whatsapp label span{
+  color: white;
+  font-size: 22px;
+  text-align: center;
+}
+
+.btn-whatsapp:hover,
+.btn-whatsapp:focus{
+  color: white;
+}
+
+@media only screen and (max-width: 767px) {
+  .whatsapp-movil{
+    display: block;
+  }
+
+  .whatsapp-escritorio{
+    display: none;
+  }
+
+  .btn-whatsapp i{
+    margin-right: 0;
+  }
+
+  .header-wrap .logo{
+    margin-bottom: 15px;
+  }
+}
 </style>
 <!---BTN OPEN FORM--->
 <div class="item-open-form">
@@ -187,17 +265,30 @@
 		</div>
 	</div>
 </div>
+<div class="whatsapp-escritorio">
+	<a class="btn-whatsapp" target="_blank" href="https://api.whatsapp.com/send?phone=51967787226&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" style="background-color: #009345;"><i class="fab fa-whatsapp"></i><label>Atención Inmediata <br>
+			<span>967787226</span></label></a>
+</div>
 
+<div class="whatsapp-movil">
+	<div class="btn-whatsapp btn-atencion">
+		<p>Atenci&oacute;n inmediata:</p>
+	</div>
+	<button class="btn-whatsapp" id="cambiar">
+		<a target="_blank" href="https://api.whatsapp.com/send?phone=51967787226&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos"><i class="fab fa-whatsapp"></i></a>
+	</button>
+</div>
 <script>
-	$('#exampleModal').on('show.bs.modal', function (event) {
-	var button = $(event.relatedTarget) // Button that triggered the modal
-	var recipient = button.data('whatever') // Extract info from data-* attributes
-	// If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
-	// Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
-	var modal = $(this)
-	modal.find('.modal-title').text('New message to ' + recipient)
-	modal.find('.modal-body input').val(recipient)
+	$('#exampleModal').on('show.bs.modal', function(event) {
+		var button = $(event.relatedTarget) // Button that triggered the modal
+		var recipient = button.data('whatever') // Extract info from data-* attributes
+		// If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
+		// Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+		var modal = $(this)
+		modal.find('.modal-title').text('New message to ' + recipient)
+		modal.find('.modal-body input').val(recipient)
 	})
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">

@@ -1221,9 +1221,8 @@
 													<div class="elementor-element elementor-element-281ceff elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="281ceff" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-56.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20cotizaci%C3%B3n%20de%20Verdulero%202x4%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+																<a href="" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 																	<span class="elementor-button-content-wrapper">
-	}
 																		<span class="elementor-button-text">COTIZA AQUÍ</span>
 																	</span>
 																</a>
