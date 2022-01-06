@@ -796,6 +796,23 @@
 	<link rel="icon" href="../wp-content/uploads/2021/06/cropped-icono-1-192x192.png" sizes="192x192">
 	<link rel="apple-touch-icon" href="../wp-content/uploads/2021/06/cropped-icono-1-180x180.png">
 	<meta name="msapplication-TileImage" content="https://nuova-retail.com/wp-content/uploads/2021/06/cropped-icono-1-270x270.png">
+	<!-- Global site tag (gtag.js) - Google Ads: 10833039925 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10833039925"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+		gtag('config', 'AW-10833039925');
+	</script>
+	<!-- Event snippet for Contacto conversion page -->
+	<script>
+		gtag('event', 'conversion', {
+			'send_to': 'AW-10833039925/Ucw1CM76p44DELWkzK0o'
+		});
+	</script>
 </head>
 
 <body class="page-template page-template-elementor_header_footer page page-id-351 wp-custom-logo wp-embed-responsive no-sidebar nav-float-right one-container header-aligned-left dropdown-hover elementor-default elementor-template-full-width elementor-kit-12 elementor-page elementor-page-351 full-width-content" itemtype="https://schema.org/WebPage" itemscope="">
@@ -973,7 +990,7 @@
 			<div data-elementor-type="wp-page" data-elementor-id="351" class="elementor elementor-351" data-elementor-settings="[]">
 				<div class="elementor-section-wrap">
 
-				<section style="margin:60px 0 0 0; padding:0;" class="elementor-section elementor-top-section elementor-element elementor-element-4f8767d elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-invisible" data-id="4f8767d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+					<section style="margin:60px 0 0 0; padding:0;" class="elementor-section elementor-top-section elementor-element elementor-element-4f8767d elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-invisible" data-id="4f8767d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
 						<div class="elementor-background-overlay"></div>
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6777e11" data-id="6777e11" data-element_type="column">

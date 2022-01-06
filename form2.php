@@ -196,7 +196,7 @@
 	<div class="item-icon-close-form">X</div>
 	<div class="bg-form-filter"></div>
 	<div class="header-wrapper">
-		<h1>Consultas y cotizaciones</h1>
+		<h2>Consultas y cotizaciones</h2>
 		<h4>Comunícate con Nosotros</h4>
 	</div>
 	<form class="needs-validation-form form-contact" novalidate method="post" action="../send-0.php" onsubmit="return validateForm()">
