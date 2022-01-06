@@ -278,17 +278,7 @@
 		<a target="_blank" href="https://api.whatsapp.com/send?phone=51967787226&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos"><i class="fab fa-whatsapp"></i></a>
 	</button>
 </div>
-<script>
-	$('#exampleModal').on('show.bs.modal', function(event) {
-		var button = $(event.relatedTarget) // Button that triggered the modal
-		var recipient = button.data('whatever') // Extract info from data-* attributes
-		// If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
-		// Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
-		var modal = $(this)
-		modal.find('.modal-title').text('New message to ' + recipient)
-		modal.find('.modal-body input').val(recipient)
-	})
-</script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">

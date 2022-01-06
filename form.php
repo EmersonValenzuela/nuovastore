@@ -265,12 +265,13 @@
 						<label for="message-text" class="col-form-label">Producto:</label>
 						<input class="form-control" name="userIssue" id="bookId">
 					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-warning" data-dismiss="modal">Cerrar</button>
+						<button type="submit" class="btn btn-primary">Enviar Mensaje</button>
+					</div>
 				</form>
 			</div>
-			<div class="modal-footer">
-				<button type="button" class="btn btn-warning" data-dismiss="modal">Cerrar</button>
-				<button type="button" class="btn btn-primary">Enviar Mensaje</button>
-			</div>
+			
 		</div>
 	</div>
 </div>

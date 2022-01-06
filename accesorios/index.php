@@ -775,23 +775,8 @@
 		};
 	</script>
 	<script src='../wp-content/plugins/chaty/js/cht-front-script.js?ver=1624691060' id='chaty-front-end-js'></script>
-	<script src='../gtag/js.js?id=UA-206503522-1' id='google_gtagjs-js' async=""></script>
-	<script id='google_gtagjs-js-after'>
-		window.dataLayer = window.dataLayer || [];
 
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('set', 'linker', {
-			"domains": ["nuova-retail.com"]
-		});
-		gtag("js", new Date());
-		gtag("set", "developer_id.dZTNiMT", true);
-		gtag("config", "UA-206503522-1", {
-			"anonymize_ip": true
-		});
-		gtag("config", "G-YKG1M06XRJ");
-	</script>
+
 	<link rel="https://api.w.org/" href="../wp-json/index.htm.json">
 	<link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/634.json">
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php.xml?rsd">
@@ -860,7 +845,7 @@
 											</a>
 										</li>
 										<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="../send.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+											<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 
 												<span class="elementor-icon-list-icon">
 													<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
@@ -1060,14 +1045,12 @@
 									<div class="elementor-element elementor-element-2674fe4 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2674fe4" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-											<a data-id="Visicooler de 850 G" title="Visicooler de 850 G" class="open-AddBookDialog">
-												<a class="elementor-button-link elementor-button elementor-size-sm">
+											<a data-id="Carrito de Compras" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
-												</a>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1090,12 +1073,12 @@
 									<div class="elementor-element elementor-element-82f7659 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="82f7659" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-42.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Carrito%20de%20un%20Piso%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Carrito de un Piso" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1118,12 +1101,12 @@
 									<div class="elementor-element elementor-element-1418b7b elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="1418b7b" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-43.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Carrito%20de%20Doble%20Piso%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Carrito Doble Piso" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1146,12 +1129,12 @@
 									<div class="elementor-element elementor-element-be4f28e elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="be4f28e" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-44.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Canasto%20con%20Ruedas%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Canasto con Ruedas" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1178,12 +1161,12 @@
 									<div class="elementor-element elementor-element-66c15d9 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="66c15d9" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-45.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Cajas%20Cosecheras%20Ca%C3%B1a%20Alta%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Cajas Cosecheras Caña Alta" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1206,12 +1189,12 @@
 									<div class="elementor-element elementor-element-cd59d97 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="cd59d97" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-46.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Cajas%20Cosecheras%20Ca%C3%B1a%20Baja%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Cajas Cosecheras Caña Baja" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1234,12 +1217,12 @@
 									<div class="elementor-element elementor-element-9ebd752 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="9ebd752" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-47.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Canasto%20de%20Mano%20con%20Asas%20de%20Metal%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Canasto de Mano con Asas de Metal" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1262,12 +1245,12 @@
 									<div class="elementor-element elementor-element-32c1423 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="32c1423" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-48.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Canasto%20de%20Mano%20con%20Asas%20de%20PVC%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Canasto de Mano con Asas de PVC" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1309,7 +1292,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-5.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">
@@ -1345,12 +1328,12 @@
 									<div class="elementor-element elementor-element-9e1d3bd elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="9e1d3bd" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-45.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Cajas%20Cosecheras%20Ca%C3%B1a%20Alta%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Canasto con Ruedas" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1373,12 +1356,12 @@
 									<div class="elementor-element elementor-element-f4c8059 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="f4c8059" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-49.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Cesto%20de%20OSB%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Cesto de OSB" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1401,12 +1384,12 @@
 									<div class="elementor-element elementor-element-3a29fe3 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="3a29fe3" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-50.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Cesto%20de%20Melamina%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Cesto de Melamina" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1429,12 +1412,12 @@
 									<div class="elementor-element elementor-element-73304c5 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="73304c5" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-51.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Ganchos%20Doble%20con%20Portaprecios%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Portaprecios con Ganchos" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1461,12 +1444,12 @@
 									<div class="elementor-element elementor-element-c487f3b elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="c487f3b" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-52.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Portaprecio%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Portaprecio" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1489,12 +1472,12 @@
 									<div class="elementor-element elementor-element-f837e8d elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="f837e8d" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-53.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Rejillas%20Cromadas%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Rejillas Cromadas" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1517,12 +1500,12 @@
 									<div class="elementor-element elementor-element-5313aa9 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="5313aa9" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-54.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Barra%20Met%C3%A1lica%20para%20Ganchos%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Barra Metal para Ganchos" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														<span class="elementor-button-icon elementor-align-icon-left">
-															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1553,7 +1536,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-14.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20asesor%C3%ADa%20de%20implementaci%C3%B3n%20de%20proyectos%20%F0%9F%98%80" target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">
