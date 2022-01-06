@@ -947,7 +947,7 @@
 											</a>
 										</li>
 										<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
+											<a href="../send.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
 
 												<span class="elementor-icon-list-icon">
 													<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
@@ -1396,7 +1396,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-5.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">
@@ -1439,7 +1439,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-14.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20asesor%C3%ADa%20de%20implementaci%C3%B3n%20de%20proyectos%20%F0%9F%98%80" target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">
@@ -1684,7 +1684,7 @@
 												</a>
 											</li>
 											<li class="elementor-icon-list-item elementor-inline-item">
-												<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
+												<a href="../send.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
 
 													<span class="elementor-icon-list-icon">
 														<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
