@@ -14,7 +14,7 @@
         <title>Email-NuovaRetail.store Consultas</title>
     </head>
     <body>
-    <p>Este <strong>mensaje de consulta</strong> fue enviado desde  https://hankookalvillantas.com/</p>
+    <p>Este <strong>mensaje de consulta</strong> fue enviado desde  https://nuovaretail.store/</p>
     <table style='margin:0!important'>
         <tr>
         <td style='margin:0!important;border:1px solid #444;background:#F9FF00;color:#000;padding:8px;'><b>Nombres y Apellidos:</b></td>
