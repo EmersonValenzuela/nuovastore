@@ -251,15 +251,15 @@
 				<form action="../send-1.php" method="POST">
 					<div class="form-group">
 						<label for="message-text" class="col-form-label">Nombres:</label>
-						<input class="form-control" name="userName">
+						<input class="form-control" name="userName" required>
 					</div>
 					<div class="form-group">
 						<label for="message-text" class="col-form-label">Email:</label>
-						<input class="form-control" name="userEmail">
+						<input class="form-control" name="userEmail" required>
 					</div>
 					<div class="form-group">
 						<label for="message-text" class="col-form-label">Celular:</label>
-						<input class="form-control" name="userPhone">
+						<input class="form-control" name="userPhone" required>
 					</div>
 					<div class="form-group">
 						<label for="message-text" class="col-form-label">Producto:</label>
