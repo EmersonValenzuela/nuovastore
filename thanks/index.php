@@ -775,7 +775,6 @@
 		};
 	</script>
 	<script src='../wp-content/plugins/chaty/js/cht-front-script.js?ver=1624691060' id='chaty-front-end-js'></script>
-	<script src='../gtag/js.js?id=UA-206503522-1' id='google_gtagjs-js' async=""></script>
 	<link rel="https://api.w.org/" href="../wp-json/index.hts.json">
 	<link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/351.json">
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php.xml?rsd">
@@ -974,56 +973,45 @@
 			<div data-elementor-type="wp-page" data-elementor-id="351" class="elementor elementor-351" data-elementor-settings="[]">
 				<div class="elementor-section-wrap">
 
-					<section class="elementor-section elementor-top-section elementor-element elementor-element-367309d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="367309d" data-element_type="section">
+				<section style="margin:60px 0 0 0; padding:0;" class="elementor-section elementor-top-section elementor-element elementor-element-4f8767d elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-invisible" data-id="4f8767d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+						<div class="elementor-background-overlay"></div>
 						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-81c4655 elementor-invisible" data-id="81c4655" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+							<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6777e11" data-id="6777e11" data-element_type="column">
 								<div class="elementor-widget-wrap elementor-element-populated">
-									<div class="elementor-element elementor-element-ef1b763 elementor-widget elementor-widget-heading" data-id="ef1b763" data-element_type="widget" data-widget_type="heading.default">
+									<div class="elementor-element elementor-element-4605779 elementor-widget elementor-widget-heading" data-id="4605779" data-element_type="widget" data-widget_type="heading.default">
 										<div class="elementor-widget-container">
-											<h1 class="elementor-heading-title elementor-size-default">Góndola Central con dos Cabeceras de Melamina</h1>
+											<h2 class="elementor-heading-title elementor-size-default">Gracias Por Escribirnos, En Breve Responderemos a su Consuta.</h2>
 										</div>
 									</div>
-									<div class="elementor-element elementor-element-fc325ef elementor-widget elementor-widget-text-editor" data-id="fc325ef" data-element_type="widget" data-widget_type="text-editor.default">
+								</div>
+							</div>
+							<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-73010ea" data-id="73010ea" data-element_type="column">
+								<div class="elementor-widget-wrap elementor-element-populated">
+									<div class="elementor-element elementor-element-b8e4a2f elementor-widget elementor-widget-jet-button" data-id="b8e4a2f" data-element_type="widget" data-widget_type="jet-button.default">
 										<div class="elementor-widget-container">
-											<p>Fabricado con melamina de 18 mm de espesor con respaldar de trupan ranurado y bandejas regulables.</p>
-										</div>
-									</div>
-									<div class="elementor-element elementor-element-bf27e5b elementor-widget elementor-widget-spacer" data-id="bf27e5b" data-element_type="widget" data-widget_type="spacer.default">
-										<div class="elementor-widget-container">
-											<div class="elementor-spacer">
-												<div class="elementor-spacer-inner"></div>
-											</div>
-										</div>
-									</div>
-									<section class="elementor-section elementor-inner-section elementor-element elementor-element-fa50e84 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fa50e84" data-element_type="section">
-										<div class="elementor-container elementor-column-gap-default">
-											<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-8cc6215" data-id="8cc6215" data-element_type="column">
-												<div class="elementor-widget-wrap elementor-element-populated">
-													<div class="elementor-element elementor-element-2674fe4 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2674fe4" data-element_type="widget" data-widget_type="button.default">
-														<div class="elementor-widget-container">
-															<div class="elementor-button-wrapper">
-																<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																	<span class="elementor-button-content-wrapper">
-																		<span class="elementor-button-icon elementor-align-icon-left">
-																			<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
-																		<span class="elementor-button-text">COTIZA AQUÍ</span>
-																	</span>
-																</a>
-															</div>
+											<div class="elementor-jet-button jet-elements">
+												<div class="jet-button__container">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../">
+														<div class="jet-button__plane jet-button__plane-normal"></div>
+														<div class="jet-button__plane jet-button__plane-hover"></div>
+														<div class="jet-button__state jet-button__state-normal">
+															<span class="jet-button__label">Regresar a Inicio</span>
 														</div>
-													</div>
+														<div class="jet-button__state jet-button__state-hover">
+															<span class="jet-button__label">CLIC AQUÍ</span>
+														</div>
+													</a>
 												</div>
 											</div>
 										</div>
-									</section>
+									</div>
 								</div>
 							</div>
-							<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2ad4933" data-id="2ad4933" data-element_type="column">
+							<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a60b5fe elementor-hidden-phone" data-id="a60b5fe" data-element_type="column">
 								<div class="elementor-widget-wrap elementor-element-populated">
-									<div class="elementor-element elementor-element-9e98076 elementor-invisible elementor-widget elementor-widget-image" data-id="9e98076" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="image.default">
+									<div class="elementor-element elementor-element-fc25204 elementor-invisible elementor-widget elementor-widget-image" data-id="fc25204" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 										<div class="elementor-widget-container">
-											<a href="../wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Góndola Central con dos Cabeceras de Melamina">
-												<img width="1200" height="1200" src="../wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina.jpg" class="attachment-full size-full" alt="Góndola Central con dos Cabeceras de Melamina" loading="lazy" srcset="../wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina.jpg 1200w, ../wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina-300x300.jpg 300w, ../wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina-1024x1024.jpg 1024w, ../wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina-150x150.jpg 150w, ../wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina-768x768.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px"> </a>
+											<img width="417" height="626" src="../wp-content/uploads/2021/06/asesoria-2-min.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/06/asesoria-2-min.png, ../wp-content/uploads/2021/06/asesoria-2-min-200x300.png 200w" sizes="(max-width: 417px) 100vw, 417px">
 										</div>
 									</div>
 								</div>

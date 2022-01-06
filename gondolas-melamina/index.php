@@ -950,8 +950,8 @@
 											<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 
 												<span class="elementor-icon-list-icon												<span class="elementor-icon-list-icon">
-													<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>">
 													<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
+													
 												<span class="elementor-icon-list-text"></span>
 											</a>
 										</li>
