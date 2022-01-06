@@ -23,91 +23,7 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:label1" content="Tiempo de lectura">
 	<meta name="twitter:data1" content="4 minutos">
-	<script type="application/ld+json" class="yoast-schema-graph">
-		{
-			"@context": "https://schema.org",
-			"@graph": [{
-				"@type": "Organization",
-				"@id": "https://nuova-retail.com/#organization",
-				"name": "Nuova Retail",
-				"url": "https://nuova-retail.com/",
-				"sameAs": [],
-				"logo": {
-					"@type": "ImageObject",
-					"@id": "https://nuova-retail.com/#logo",
-					"inLanguage": "es",
-					"url": "https://nuova-retail.com/wp-content/uploads/2021/06/cropped-logotipo-nuova-retail.png",
-					"contentUrl": "https://nuova-retail.com/wp-content/uploads/2021/06/cropped-logotipo-nuova-retail.png",
-					"width": 301,
-					"height": 84,
-					"caption": "Nuova Retail"
-				},
-				"image": {
-					"@id": "https://nuova-retail.com/#logo"
-				}
-			}, {
-				"@type": "WebSite",
-				"@id": "https://nuova-retail.com/#website",
-				"url": "https://nuova-retail.com/",
-				"name": "Nuova Retail",
-				"description": "Expertos en Equipamiento Comercial",
-				"publisher": {
-					"@id": "https://nuova-retail.com/#organization"
-				},
-				"potentialAction": [{
-					"@type": "SearchAction",
-					"target": {
-						"@type": "EntryPoint",
-						"urlTemplate": "https://nuova-retail.com/?s={search_term_string}"
-					},
-					"query-input": "required name=search_term_string"
-				}],
-				"inLanguage": "es"
-			}, {
-				"@type": "ImageObject",
-				"@id": "https://nuova-retail.com/#primaryimage",
-				"inLanguage": "es",
-				"url": "https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metalica.jpg",
-				"contentUrl": "https://nuova-retail.com/wp-content/uploads/2021/06/gondola-metalica.jpg",
-				"width": 1400,
-				"height": 1400
-			}, {
-				"@type": "WebPage",
-				"@id": "https://nuova-retail.com/#webpage",
-				"url": "https://nuova-retail.com/",
-				"name": "Nuova Retail - Expertos en Equipamiento Comercial",
-				"isPartOf": {
-					"@id": "https://nuova-retail.com/#website"
-				},
-				"about": {
-					"@id": "https://nuova-retail.com/#organization"
-				},
-				"primaryImageOfPage": {
-					"@id": "https://nuova-retail.com/#primaryimage"
-				},
-				"datePublished": "2021-06-14T06:43:20+00:00",
-				"dateModified": "2021-09-01T08:03:16+00:00",
-				"description": "Nuova Retail es una empresa especializada en equipamiento comercial. G\u00f3ndolas Met\u00e1licas, g\u00f3ndolas de melamina, M\u00f3dulos de pago y licores, entre otros.",
-				"breadcrumb": {
-					"@id": "https://nuova-retail.com/#breadcrumb"
-				},
-				"inLanguage": "es",
-				"potentialAction": [{
-					"@type": "ReadAction",
-					"target": ["https://nuova-retail.com/"]
-				}]
-			}, {
-				"@type": "BreadcrumbList",
-				"@id": "https://nuova-retail.com/#breadcrumb",
-				"itemListElement": [{
-					"@type": "ListItem",
-					"position": 1,
-					"name": "Portada"
-				}]
-			}]
-		}
-	</script>
-	<!-- / Yoast SEO plugin. -->
+
 
 
 	<link rel='dns-prefetch' href='//www.googletagmanager.com'>
@@ -893,23 +809,7 @@
 		};
 	</script>
 	<script src='wp-content/plugins/chaty/js/cht-front-script.js?ver=1624691060' id='chaty-front-end-js'></script>
-	<script src='gtag/js.js?id=UA-206503522-1' id='google_gtagjs-js' async=""></script>
-	<script id='google_gtagjs-js-after'>
-		window.dataLayer = window.dataLayer || [];
-
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('set', 'linker', {
-			"domains": ["nuova-retail.com"]
-		});
-		gtag("js", new Date());
-		gtag("set", "developer_id.dZTNiMT", true);
-		gtag("config", "UA-206503522-1", {
-			"anonymize_ip": true
-		});
-		gtag("config", "G-YKG1M06XRJ");
-	</script>
+	
 	<link rel="https://api.w.org/" href="wp-json/index.ht.json">
 	<link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/33.json">
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php.xml?rsd">
@@ -1291,6 +1191,7 @@
 										data-id="f524d05" data-element_type="widget"
 										data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
 										data-widget_type="heading.default">
+											<h1>Góndolas Para Minimarket</h1>
 										<div class="elementor-widget-container">
 											<h2 class="elementor-heading-title elementor-size-default">Sobre la empresa
 											</h2>
@@ -1301,7 +1202,7 @@
 										data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
 										data-widget_type="text-editor.default">
 										<div class="elementor-widget-container">
-											<p><strong><a href="index.php">Nuova Retail</a></strong> es un empresa
+											<p><strong><a href="index.php">Nuova Retail</a></strong> es una empresa
 												dedicada a la fabricación y comercialización de <strong>exhibidores
 													metálicas y de melamina</strong>. Trabajamos juntos para diseñar,
 												crear y producir modelos exclusivos para tiendas, minimarkets y centros
