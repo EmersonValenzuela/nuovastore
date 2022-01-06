@@ -9,7 +9,7 @@
 	<!-- This site is optimized with the Yoast SEO plugin v17.0 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Accesorios - Nuova Retail - Cotiza hoy mismo y equipa tu minimarket</title>
 	<meta name="description" content="Accesorios para equipar tu minimarket o supermercado. Carritos para supermercados, canastos con ruedas, cajas cosecheras, entre otros.">
-	<link rel="canonical" href="index.php">
+	<link rel="canonical" href="">
 	<meta property="og:locale" content="es_ES">
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="Accesorios - Nuova Retail - Cotiza hoy mismo y equipa tu minimarket">
@@ -21,94 +21,8 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:label1" content="Tiempo de lectura">
 	<meta name="twitter:data1" content="5 minutos">
-	<script type="application/ld+json" class="yoast-schema-graph">
-		{
-			"@context": "https://schema.org",
-			"@graph": [{
-				"@type": "Organization",
-				"@id": "https://nuova-retail.com/#organization",
-				"name": "Nuova Retail",
-				"url": "https://nuova-retail.com/",
-				"sameAs": [],
-				"logo": {
-					"@type": "ImageObject",
-					"@id": "https://nuova-retail.com/#logo",
-					"inLanguage": "es",
-					"url": "https://nuova-retail.com/wp-content/uploads/2021/06/cropped-logotipo-nuova-retail.png",
-					"contentUrl": "https://nuova-retail.com/wp-content/uploads/2021/06/cropped-logotipo-nuova-retail.png",
-					"width": 301,
-					"height": 84,
-					"caption": "Nuova Retail"
-				},
-				"image": {
-					"@id": "https://nuova-retail.com/#logo"
-				}
-			}, {
-				"@type": "WebSite",
-				"@id": "https://nuova-retail.com/#website",
-				"url": "https://nuova-retail.com/",
-				"name": "Nuova Retail",
-				"description": "Expertos en Equipamiento Comercial",
-				"publisher": {
-					"@id": "https://nuova-retail.com/#organization"
-				},
-				"potentialAction": [{
-					"@type": "SearchAction",
-					"target": {
-						"@type": "EntryPoint",
-						"urlTemplate": "https://nuova-retail.com/?s={search_term_string}"
-					},
-					"query-input": "required name=search_term_string"
-				}],
-				"inLanguage": "es"
-			}, {
-				"@type": "ImageObject",
-				"@id": "https://nuova-retail.com/accesorios/#primaryimage",
-				"inLanguage": "es",
-				"url": "https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-compras.jpg",
-				"contentUrl": "https://nuova-retail.com/wp-content/uploads/2021/07/carrito-de-compras.jpg",
-				"width": 1200,
-				"height": 1200,
-				"caption": "Carrito de Compras"
-			}, {
-				"@type": "WebPage",
-				"@id": "https://nuova-retail.com/accesorios/#webpage",
-				"url": "https://nuova-retail.com/accesorios/",
-				"name": "Accesorios - Nuova Retail - Cotiza hoy mismo y equipa tu minimarket",
-				"isPartOf": {
-					"@id": "https://nuova-retail.com/#website"
-				},
-				"primaryImageOfPage": {
-					"@id": "https://nuova-retail.com/accesorios/#primaryimage"
-				},
-				"datePublished": "2021-06-21T18:53:43+00:00",
-				"dateModified": "2021-09-01T08:27:02+00:00",
-				"description": "Accesorios para\u00a0equipar tu minimarket o supermercado. Carritos para supermercados, canastos con ruedas, cajas cosecheras, entre otros.",
-				"breadcrumb": {
-					"@id": "https://nuova-retail.com/accesorios/#breadcrumb"
-				},
-				"inLanguage": "es",
-				"potentialAction": [{
-					"@type": "ReadAction",
-					"target": ["https://nuova-retail.com/accesorios/"]
-				}]
-			}, {
-				"@type": "BreadcrumbList",
-				"@id": "https://nuova-retail.com/accesorios/#breadcrumb",
-				"itemListElement": [{
-					"@type": "ListItem",
-					"position": 1,
-					"name": "Portada",
-					"item": "https://nuova-retail.com/"
-				}, {
-					"@type": "ListItem",
-					"position": 2,
-					"name": "Accesorios"
-				}]
-			}]
-		}
-	</script>
-	<!-- / Yoast SEO plugin. -->
+
+
 
 	<link rel='dns-prefetch' href='//www.googletagmanager.com'>
 	<link rel='dns-prefetch' href='//fonts.googleapis.com'>
@@ -883,7 +797,7 @@
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php.xml?rsd">
 	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml">
 	<meta name="generator" content="WordPress 5.8.1">
-	<link rel='shortlink' href='index.php?p=634'>
+	<link rel='shortlink' href='?p=634'>
 	<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed-6.json?url=https%3A%2F%2Fnuova-retail.com%2Faccesorios%2F">
 	<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed-6.xml?url=https%3A%2F%2Fnuova-retail.com%2Faccesorios%2F&#038;format=xml">
 	<meta name="generator" content="Site Kit by Google 1.40.0">
@@ -966,7 +880,7 @@
 						<div class="elementor-widget-wrap elementor-element-populated">
 							<div class="elementor-element elementor-element-316b45c elementor-invisible elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="316b45c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="theme-site-logo.default">
 								<div class="elementor-widget-container">
-									<a href="../index.php">
+									<a href="../">
 										<img width="301" height="84" src="../wp-content/uploads/2021/06/cropped-logotipo-nuova-retail.png" class="attachment-full size-full" alt="" loading="lazy"> </a>
 								</div>
 							</div>
@@ -1026,19 +940,19 @@
 								<div class="elementor-widget-container">
 									<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
 										<ul id="menu-1-f30b870" class="elementor-nav-menu">
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-35"><a href="../index.php" class="elementor-item">Inicio</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="../gondolas-metalicas/index.php" class="elementor-item">Góndolas Metálicas</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382"><a href="../gondolas-melamina/index.php" class="elementor-item">Góndolas Melamina</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-35"><a href="../" class="elementor-item">Inicio</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="../gondolas-metalicas/" class="elementor-item">Góndolas Metálicas</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382"><a href="../gondolas-melamina/" class="elementor-item">Góndolas Melamina</a></li>
 											<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-466"><a href="#" class="elementor-item elementor-item-anchor">Muebles</a>
 												<ul class="sub-menu elementor-nav-menu--dropdown">
-													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="../modulos-de-pago/index.php" class="elementor-sub-item">Módulos de Pago</a></li>
-													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-470"><a href="../modulos-de-licores/index.php" class="elementor-sub-item">Módulos de Licores</a></li>
-													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-562"><a href="../modulos-agranel/index.php" class="elementor-sub-item">Módulos Agranel</a></li>
+													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="../modulos-de-pago/" class="elementor-sub-item">Módulos de Pago</a></li>
+													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-470"><a href="../modulos-de-licores/" class="elementor-sub-item">Módulos de Licores</a></li>
+													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-562"><a href="../modulos-agranel/" class="elementor-sub-item">Módulos Agranel</a></li>
 												</ul>
 											</li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-634 current_page_item menu-item-726"><a href="index.php" aria-current="page" class="elementor-item elementor-item-active">Accesorios</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541"><a href="../verduleros-y-fruteros/index.php" class="elementor-item">Verduleros y Fruteros</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="../visicoolers/index.php" class="elementor-item">Visicoolers</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-634 current_page_item menu-item-726"><a href="" aria-current="page" class="elementor-item elementor-item-active">Accesorios</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541"><a href="../verduleros-y-fruteros/" class="elementor-item">Verduleros y Fruteros</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="../visicoolers/" class="elementor-item">Visicoolers</a></li>
 										</ul>
 									</nav>
 									<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
@@ -1047,19 +961,19 @@
 									</div>
 									<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 										<ul id="menu-2-f30b870" class="elementor-nav-menu">
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-35"><a href="../index.php" class="elementor-item">Inicio</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="../gondolas-metalicas/index.php" class="elementor-item">Góndolas Metálicas</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382"><a href="../gondolas-melamina/index.php" class="elementor-item">Góndolas Melamina</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-35"><a href="../" class="elementor-item">Inicio</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="../gondolas-metalicas/" class="elementor-item">Góndolas Metálicas</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382"><a href="../gondolas-melamina/" class="elementor-item">Góndolas Melamina</a></li>
 											<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-466"><a href="#" class="elementor-item elementor-item-anchor">Muebles</a>
 												<ul class="sub-menu elementor-nav-menu--dropdown">
-													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="../modulos-de-pago/index.php" class="elementor-sub-item">Módulos de Pago</a></li>
-													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-470"><a href="../modulos-de-licores/index.php" class="elementor-sub-item">Módulos de Licores</a></li>
-													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-562"><a href="../modulos-agranel/index.php" class="elementor-sub-item">Módulos Agranel</a></li>
+													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="../modulos-de-pago/" class="elementor-sub-item">Módulos de Pago</a></li>
+													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-470"><a href="../modulos-de-licores/" class="elementor-sub-item">Módulos de Licores</a></li>
+													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-562"><a href="../modulos-agranel/" class="elementor-sub-item">Módulos Agranel</a></li>
 												</ul>
 											</li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-634 current_page_item menu-item-726"><a href="index.php" aria-current="page" class="elementor-item elementor-item-active">Accesorios</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541"><a href="../verduleros-y-fruteros/index.php" class="elementor-item">Verduleros y Fruteros</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="../visicoolers/index.php" class="elementor-item">Visicoolers</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-634 current_page_item menu-item-726"><a href="" aria-current="page" class="elementor-item elementor-item-active">Accesorios</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541"><a href="../verduleros-y-fruteros/" class="elementor-item">Verduleros y Fruteros</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="../visicoolers/" class="elementor-item">Visicoolers</a></li>
 										</ul>
 									</nav>
 								</div>
@@ -1111,7 +1025,7 @@
 								<div class="elementor-widget-wrap elementor-element-populated">
 									<div class="elementor-element elementor-element-22583b4 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="22583b4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="text-editor.default">
 										<div class="elementor-widget-container">
-											<p>Los <a href="index.php"><strong>Accesorios</strong></a> para <strong>equipar tu minimarket o supermercado. </strong>Somos especialistas en la implementación de carritos para supermercados, canastos con ruedas, cajas cosecheras, canasto de mano, entre otros. </p>
+											<p>Los <a href=""><strong>Accesorios</strong></a> para <strong>equipar tu minimarket o supermercado. </strong>Somos especialistas en la implementación de carritos para supermercados, canastos con ruedas, cajas cosecheras, canasto de mano, entre otros. </p>
 										</div>
 									</div>
 									<div class="elementor-element elementor-element-53c293e elementor-invisible elementor-widget elementor-widget-heading" data-id="53c293e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
@@ -1146,12 +1060,15 @@
 									<div class="elementor-element elementor-element-2674fe4 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2674fe4" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="" data-whatever="@mdo" data-toggle="modal" data-target="#exampleModal" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Visicooler de 850 G" title="Visicooler de 850 G" class="open-AddBookDialog">
+												<a class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
-												<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Open modal for @mdo</button>
+												</a>
 											</div>
 										</div>
 									</div>
@@ -1175,7 +1092,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-42.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Carrito%20de%20un%20Piso%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1202,7 +1120,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-43.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Carrito%20de%20Doble%20Piso%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1229,7 +1148,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-44.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Canasto%20con%20Ruedas%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1260,7 +1180,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-45.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Cajas%20Cosecheras%20Ca%C3%B1a%20Alta%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1287,7 +1208,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-46.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Cajas%20Cosecheras%20Ca%C3%B1a%20Baja%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1314,7 +1236,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-47.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Canasto%20de%20Mano%20con%20Asas%20de%20Metal%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1341,7 +1264,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-48.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Canasto%20de%20Mano%20con%20Asas%20de%20PVC%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1423,7 +1347,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-45.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Cajas%20Cosecheras%20Ca%C3%B1a%20Alta%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1450,7 +1375,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-49.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Cesto%20de%20OSB%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1477,7 +1403,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-50.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Cesto%20de%20Melamina%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1504,7 +1431,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-51.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Ganchos%20Doble%20con%20Portaprecios%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1535,7 +1463,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-52.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Portaprecio%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1562,7 +1491,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-53.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Rejillas%20Cromadas%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1589,7 +1519,8 @@
 											<div class="elementor-button-wrapper">
 												<a href="../send-54.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20Barra%20Met%C3%A1lica%20para%20Ganchos%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 													<span class="elementor-button-content-wrapper">
-
+														<span class="elementor-button-icon elementor-align-icon-left">
+															<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
 												</a>
@@ -1660,7 +1591,7 @@
 									</div>
 									<div class="elementor-element elementor-element-171dceb elementor-widget elementor-widget-text-editor" data-id="171dceb" data-element_type="widget" data-widget_type="text-editor.default">
 										<div class="elementor-widget-container">
-											<p>Los <a href="index.php"><strong>Accesorios</strong></a> nos ayudan a optimizar los espacios y mejorar la experiencia de compra de los clientes<strong>. </strong> </p>
+											<p>Los <a href=""><strong>Accesorios</strong></a> nos ayudan a optimizar los espacios y mejorar la experiencia de compra de los clientes<strong>. </strong> </p>
 										</div>
 									</div>
 								</div>
@@ -1883,37 +1814,37 @@
 									<div class="elementor-widget-container">
 										<ul class="elementor-icon-list-items">
 											<li class="elementor-icon-list-item">
-												<a href="../gondolas-metalicas/index.php">
+												<a href="../gondolas-metalicas/">
 
 													<span class="elementor-icon-list-text">Góndolas Metálicas</span>
 												</a>
 											</li>
 											<li class="elementor-icon-list-item">
-												<a href="../gondolas-melamina/index.php">
+												<a href="../gondolas-melamina/">
 
 													<span class="elementor-icon-list-text">Góndolas Melamina</span>
 												</a>
 											</li>
 											<li class="elementor-icon-list-item">
-												<a href="../modulos-de-pago/index.php">
+												<a href="../modulos-de-pago/">
 
 													<span class="elementor-icon-list-text">Muebles</span>
 												</a>
 											</li>
 											<li class="elementor-icon-list-item">
-												<a href="index.php">
+												<a href="">
 
 													<span class="elementor-icon-list-text">Accesorios</span>
 												</a>
 											</li>
 											<li class="elementor-icon-list-item">
-												<a href="../verduleros-y-fruteros/index.php">
+												<a href="../verduleros-y-fruteros/">
 
 													<span class="elementor-icon-list-text">Verduleros y Fruteros</span>
 												</a>
 											</li>
 											<li class="elementor-icon-list-item">
-												<a href="../visicoolers/index.php">
+												<a href="../visicoolers/">
 
 													<span class="elementor-icon-list-text">Visicoolers</span>
 												</a>
@@ -1967,7 +1898,7 @@
 									<div class="elementor-widget-container">
 										<ul class="elementor-icon-list-items">
 											<li class="elementor-icon-list-item">
-												<a href="../politicas-de-privacidad/index.php">
+												<a href="../politicas-de-privacidad/">
 
 													<span class="elementor-icon-list-text">Políticas de Privacidad</span>
 												</a>

@@ -1167,11 +1167,12 @@
 													<div class="elementor-element elementor-element-2674fe4 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2674fe4" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-23.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20M%C3%B3dulo%20de%20Pago%20Completo%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																	<span class="elementor-button-content-wrapper">
-																		
-																		<span class="elementor-button-text">COTIZA AQUÍ</span>
-																	</span>
+															<a data-id="Módulo de Pago Completo" class="open-AddBookDialog">
+																	<button class="elementor-button-link elementor-button elementor-size-sm">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">COTIZA AQUÍ</span>
+																		</span>
+																	</button>
 																</a>
 															</div>
 														</div>
@@ -1232,11 +1233,12 @@
 													<div class="elementor-element elementor-element-281ceff elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="281ceff" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-24.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20Check%20Out%20Melamina%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																	<span class="elementor-button-content-wrapper">
-																		
-																		<span class="elementor-button-text">COTIZA AQUÍ</span>
-																	</span>
+															<a data-id="Check Out Melamina" class="open-AddBookDialog">
+																	<button class="elementor-button-link elementor-button elementor-size-sm">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">COTIZA AQUÍ</span>
+																		</span>
+																	</button>
 																</a>
 															</div>
 														</div>
@@ -1282,7 +1284,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-5.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">
@@ -1313,49 +1315,70 @@
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/modulo-de-pago-completo-con-vidrio.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/modulo-de-pago-completo-con-vidrio.jpg" class="jet-carousel__item-img" alt="Módulo de Pago con Vidrios Frontales" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Módulo de Caja con Vidrios Frontales</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-25.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20M%C3%B3dulo%20de%20Caja%20con%20Vidrios%20Frontales%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Módulo de Caja con Vidrios Frontales</h5>
+																		<a data-id="Módulo de Caja con Vidrios Frontales" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-pago-central.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-pago-central.jpg" class="jet-carousel__item-img" alt="Módulo de Pago Central" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Módulo de Pago Central</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-26.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20M%C3%B3dulo%20de%20Pago%20Central%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Módulo de Pago Central</h5>
+																		<a data-id="Módulo de Pago Central" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/check-out-en-forma-de-u.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/check-out-en-forma-de-u.jpg" class="jet-carousel__item-img" alt="Check Out en forma de U" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Check Out en forma de U</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-27.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20Check%20Out%20en%20forma%20de%20U%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Check Out en forma de U</h5>
+																		<a data-id="Check Out en forma de U" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/chek-out-en-forma-de-l-con-bandejas-frontales.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/chek-out-en-forma-de-l-con-bandejas-frontales.jpg" class="jet-carousel__item-img" alt="Chek Out en forma de L con Bandejas Frontales" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Check Out en forma de L con Bandejas Frontales</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-28.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20Check%20Out%20en%20forma%20de%20L%20con%20Bandejas%20Frontales%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Check Out en forma de L con Bandejas Frontales</h5>
+																		<a data-id="Check Out en forma de L con Bandejas Frontales" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/check-out-en-forma-de-l-con-bandejas-laterales.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/check-out-en-forma-de-l-con-bandejas-laterales.jpg" class="jet-carousel__item-img" alt="Check Out en forma de L con Bandejas Laterales" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Check Out en forma de L con Bandejas Laterales</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-29.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20Check%20Out%20en%20forma%20de%20L%20con%20Bandejas%20Laterales%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Check Out en forma de L con Bandejas Laterales</h5>
+																		<a data-id="Check Out en forma de L con Bandejas Laterales" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/check-out-en-forma-de-l-circular.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/check-out-en-forma-de-l-circular.jpg" class="jet-carousel__item-img" alt="Check Out en forma de L Circular" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Check Out en forma de L Circular</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-30.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20Check%20Out%20en%20forma%20de%20L%20Circular%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Check Out en forma de L Circular</h5>
+																		<a data-id="Check Out en forma de L Circular" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/check-out-importado-min.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/check-out-importado-min.jpg" class="jet-carousel__item-img" alt="Check Out Modelo Importado" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Check Out Modelo Importado</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-31.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20Check%20Out%20Modelo%20Importado%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Check Out Modelo Importado</h5>
+																		<a data-id="Check Out Modelo Importado" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
@@ -1389,7 +1412,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-14.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20asesor%C3%ADa%20de%20implementaci%C3%B3n%20de%20proyectos%20%F0%9F%98%80" target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">

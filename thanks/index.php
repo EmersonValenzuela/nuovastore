@@ -21,94 +21,7 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:label1" content="Tiempo de lectura">
 	<meta name="twitter:data1" content="4 minutos">
-	<script type="application/ld+json" class="yoast-schema-graph">
-		{
-			"@context": "https://schema.org",
-			"@graph": [{
-				"@type": "Organization",
-				"@id": "https://nuova-retail.com/#organization",
-				"name": "Nuova Retail",
-				"url": "https://nuova-retail.com/",
-				"sameAs": [],
-				"logo": {
-					"@type": "ImageObject",
-					"@id": "https://nuova-retail.com/#logo",
-					"inLanguage": "es",
-					"url": "https://nuova-retail.com/wp-content/uploads/2021/06/cropped-logotipo-nuova-retail.png",
-					"contentUrl": "https://nuova-retail.com/wp-content/uploads/2021/06/cropped-logotipo-nuova-retail.png",
-					"width": 301,
-					"height": 84,
-					"caption": "Nuova Retail"
-				},
-				"image": {
-					"@id": "https://nuova-retail.com/#logo"
-				}
-			}, {
-				"@type": "WebSite",
-				"@id": "https://nuova-retail.com/#website",
-				"url": "https://nuova-retail.com/",
-				"name": "Nuova Retail",
-				"description": "Expertos en Equipamiento Comercial",
-				"publisher": {
-					"@id": "https://nuova-retail.com/#organization"
-				},
-				"potentialAction": [{
-					"@type": "SearchAction",
-					"target": {
-						"@type": "EntryPoint",
-						"urlTemplate": "https://nuova-retail.com/?s={search_term_string}"
-					},
-					"query-input": "required name=search_term_string"
-				}],
-				"inLanguage": "es"
-			}, {
-				"@type": "ImageObject",
-				"@id": "https://nuova-retail.com/gondolas-melamina/#primaryimage",
-				"inLanguage": "es",
-				"url": "https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina.jpg",
-				"contentUrl": "https://nuova-retail.com/wp-content/uploads/2021/06/gondola-central-con-dos-cabeceras-de-melamina.jpg",
-				"width": 1200,
-				"height": 1200,
-				"caption": "G\u00f3ndola Central con dos Cabeceras de Melamina"
-			}, {
-				"@type": "WebPage",
-				"@id": "https://nuova-retail.com/gondolas-melamina/#webpage",
-				"url": "https://nuova-retail.com/gondolas-melamina/",
-				"name": "G\u00f3ndolas Melamina - Nuova Retail - Dise\u00f1os Personalizados",
-				"isPartOf": {
-					"@id": "https://nuova-retail.com/#website"
-				},
-				"primaryImageOfPage": {
-					"@id": "https://nuova-retail.com/gondolas-melamina/#primaryimage"
-				},
-				"datePublished": "2021-06-16T05:13:20+00:00",
-				"dateModified": "2021-08-31T16:40:52+00:00",
-				"description": "G\u00f3ndolas\u00a0de Melamina, ideales para la exhibici\u00f3n de productos livianos de forma novedosa y atractiva. Producidos con dise\u00f1os personalizados.",
-				"breadcrumb": {
-					"@id": "https://nuova-retail.com/gondolas-melamina/#breadcrumb"
-				},
-				"inLanguage": "es",
-				"potentialAction": [{
-					"@type": "ReadAction",
-					"target": ["https://nuova-retail.com/gondolas-melamina/"]
-				}]
-			}, {
-				"@type": "BreadcrumbList",
-				"@id": "https://nuova-retail.com/gondolas-melamina/#breadcrumb",
-				"itemListElement": [{
-					"@type": "ListItem",
-					"position": 1,
-					"name": "Portada",
-					"item": "https://nuova-retail.com/"
-				}, {
-					"@type": "ListItem",
-					"position": 2,
-					"name": "G\u00f3ndolas Melamina"
-				}]
-			}]
-		}
-	</script>
-	<!-- / Yoast SEO plugin. -->
+
 
 
 	<link rel='dns-prefetch' href='//www.googletagmanager.com'>
@@ -863,22 +776,6 @@
 	</script>
 	<script src='../wp-content/plugins/chaty/js/cht-front-script.js?ver=1624691060' id='chaty-front-end-js'></script>
 	<script src='../gtag/js.js?id=UA-206503522-1' id='google_gtagjs-js' async=""></script>
-	<script id='google_gtagjs-js-after'>
-		window.dataLayer = window.dataLayer || [];
-
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('set', 'linker', {
-			"domains": ["nuova-retail.com"]
-		});
-		gtag("js", new Date());
-		gtag("set", "developer_id.dZTNiMT", true);
-		gtag("config", "UA-206503522-1", {
-			"anonymize_ip": true
-		});
-		gtag("config", "G-YKG1M06XRJ");
-	</script>
 	<link rel="https://api.w.org/" href="../wp-json/index.hts.json">
 	<link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/351.json">
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php.xml?rsd">

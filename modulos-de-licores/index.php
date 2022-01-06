@@ -21,94 +21,7 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:label1" content="Tiempo de lectura">
 	<meta name="twitter:data1" content="3 minutos">
-	<script type="application/ld+json" class="yoast-schema-graph">
-		{
-			"@context": "https://schema.org",
-			"@graph": [{
-				"@type": "Organization",
-				"@id": "https://nuova-retail.com/#organization",
-				"name": "Nuova Retail",
-				"url": "https://nuova-retail.com/",
-				"sameAs": [],
-				"logo": {
-					"@type": "ImageObject",
-					"@id": "https://nuova-retail.com/#logo",
-					"inLanguage": "es",
-					"url": "https://nuova-retail.com/wp-content/uploads/2021/06/cropped-logotipo-nuova-retail.png",
-					"contentUrl": "https://nuova-retail.com/wp-content/uploads/2021/06/cropped-logotipo-nuova-retail.png",
-					"width": 301,
-					"height": 84,
-					"caption": "Nuova Retail"
-				},
-				"image": {
-					"@id": "https://nuova-retail.com/#logo"
-				}
-			}, {
-				"@type": "WebSite",
-				"@id": "https://nuova-retail.com/#website",
-				"url": "https://nuova-retail.com/",
-				"name": "Nuova Retail",
-				"description": "Expertos en Equipamiento Comercial",
-				"publisher": {
-					"@id": "https://nuova-retail.com/#organization"
-				},
-				"potentialAction": [{
-					"@type": "SearchAction",
-					"target": {
-						"@type": "EntryPoint",
-						"urlTemplate": "https://nuova-retail.com/?s={search_term_string}"
-					},
-					"query-input": "required name=search_term_string"
-				}],
-				"inLanguage": "es"
-			}, {
-				"@type": "ImageObject",
-				"@id": "https://nuova-retail.com/modulos-de-licores/#primaryimage",
-				"inLanguage": "es",
-				"url": "https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-licor-simple.jpg",
-				"contentUrl": "https://nuova-retail.com/wp-content/uploads/2021/06/modulo-de-licor-simple.jpg",
-				"width": 750,
-				"height": 750,
-				"caption": "M\u00f3dulo de Licor Simple"
-			}, {
-				"@type": "WebPage",
-				"@id": "https://nuova-retail.com/modulos-de-licores/#webpage",
-				"url": "https://nuova-retail.com/modulos-de-licores/",
-				"name": "M\u00f3dulos de Licores - Nuova Retail - Organiza mejor tus productos",
-				"isPartOf": {
-					"@id": "https://nuova-retail.com/#website"
-				},
-				"primaryImageOfPage": {
-					"@id": "https://nuova-retail.com/modulos-de-licores/#primaryimage"
-				},
-				"datePublished": "2021-06-17T01:41:57+00:00",
-				"dateModified": "2021-08-31T17:17:26+00:00",
-				"description": "M\u00f3dulos de Licores te ayudan a ordenar de forma atractiva y optimizada los licores y mejorar la experiencia de compra de sus clientes.",
-				"breadcrumb": {
-					"@id": "https://nuova-retail.com/modulos-de-licores/#breadcrumb"
-				},
-				"inLanguage": "es",
-				"potentialAction": [{
-					"@type": "ReadAction",
-					"target": ["https://nuova-retail.com/modulos-de-licores/"]
-				}]
-			}, {
-				"@type": "BreadcrumbList",
-				"@id": "https://nuova-retail.com/modulos-de-licores/#breadcrumb",
-				"itemListElement": [{
-					"@type": "ListItem",
-					"position": 1,
-					"name": "Portada",
-					"item": "https://nuova-retail.com/"
-				}, {
-					"@type": "ListItem",
-					"position": 2,
-					"name": "M\u00f3dulos de Licores"
-				}]
-			}]
-		}
-	</script>
-	<!-- / Yoast SEO plugin. -->
+
 
 
 	<link rel='dns-prefetch' href='//www.googletagmanager.com'>
@@ -863,22 +776,6 @@
 	</script>
 	<script src='../wp-content/plugins/chaty/js/cht-front-script.js?ver=1624691060' id='chaty-front-end-js'></script>
 	<script src='../gtag/js.js?id=UA-206503522-1' id='google_gtagjs-js' async=""></script>
-	<script id='google_gtagjs-js-after'>
-		window.dataLayer = window.dataLayer || [];
-
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('set', 'linker', {
-			"domains": ["nuova-retail.com"]
-		});
-		gtag("js", new Date());
-		gtag("set", "developer_id.dZTNiMT", true);
-		gtag("config", "UA-206503522-1", {
-			"anonymize_ip": true
-		});
-		gtag("config", "G-YKG1M06XRJ");
-	</script>
 	<link rel="https://api.w.org/" href="../wp-json/index.hts.json">
 	<link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/468.json">
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php.xml?rsd">
@@ -947,7 +844,7 @@
 											</a>
 										</li>
 										<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="../send.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+											<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 
 												<span class="elementor-icon-list-icon">
 													<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
@@ -1167,11 +1064,12 @@
 													<div class="elementor-element elementor-element-2674fe4 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2674fe4" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-32.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20M%C3%B3dulo%20de%20Licor%20Simple%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																	<span class="elementor-button-content-wrapper">
-																		
-																		<span class="elementor-button-text">COTIZA AQUÍ</span>
-																	</span>
+															<a data-id="Módulo de Licor Simple" class="open-AddBookDialog">
+																	<button class="elementor-button-link elementor-button elementor-size-sm">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">COTIZA AQUÍ</span>
+																		</span>
+																	</button>
 																</a>
 															</div>
 														</div>
@@ -1227,7 +1125,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-5.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">
@@ -1258,35 +1156,50 @@
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/modulo-de-licor-doble.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/modulo-de-licor-doble.jpg" class="jet-carousel__item-img" alt="Módulo de Licor Doble" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Módulo de Licor Doble</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-33.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20M%C3%B3dulo%20de%20Licor%20Doble%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Módulo de Licor Doble</h5>
+																		<a data-id="Módulo de Licor Doble" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/modulo-de-licores-con-cigarrero.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/modulo-de-licores-con-cigarrero.jpg" class="jet-carousel__item-img" alt="Módulo de Licores con Cigarrero" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Módulo de Licores con Cigarrero</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-34.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20M%C3%B3dulo%20de%20Licores%20con%20Cigarrero%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Módulo de Licores con Cigarrero</h5>
+																		<a data-id="Módulo de Licores con Cigarrero" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/modulo-de-licores-con-luces-dicroicos.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/modulo-de-licores-con-luces-dicroicos.jpg" class="jet-carousel__item-img" alt="Módulo de Licores con Luces Dicroicos" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Módulo de Licores con Luces Dicroicos</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-35.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20del%20M%C3%B3dulo%20de%20Licores%20con%20Luces%20Dicroicos%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Módulo de Licores con Luces Dicroicos</h5>
+																		<a data-id="Módulo de Licores con Luces Dicroicos" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/07/cigarrero-aereo-personalizado.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/07/cigarrero-aereo-personalizado.jpg" class="jet-carousel__item-img" alt="Cigarrero Aéreo Personalizado" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Cigarrero Aereo Personalizado</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-36.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20cotizaci%C3%B3n%20de%20Cigarrero%20A%C3%A9reo%20Personalizado%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Cigarrero Aereo Personalizado</h5>
+																		<a data-id="Cigarrero Aereo Personalizado" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/modulo-respaldar.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/modulo-respaldar.jpg" class="jet-carousel__item-img" alt="Módulo Respaldar" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Módulo Respaldar</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-37.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20cotizaci%C3%B3n%20de%20M%C3%B3dulo%20Respaldar%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Módulo Respaldar</h5>
+																		<a data-id="Módulo Respaldar" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
@@ -1320,7 +1233,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-14.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20asesor%C3%ADa%20de%20implementaci%C3%B3n%20de%20proyectos%20%F0%9F%98%80" target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">
@@ -1340,7 +1253,7 @@
 								<div class="elementor-widget-wrap elementor-element-populated">
 									<div class="elementor-element elementor-element-fc25204 elementor-invisible elementor-widget elementor-widget-image" data-id="fc25204" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 										<div class="elementor-widget-container">
-											<img width="417" height="626" src="https://nuova-retail.com/wp-content/uploads/2021/06/asesoria-2-min.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://nuova-retail.com/wp-content/uploads/2021/06/asesoria-2-min.png, ../wp-content/uploads/2021/06/asesoria-2-min-200x300.png 200w" sizes="(max-width: 417px) 100vw, 417px">
+											<img width="417" height="626" src="../wp-content/uploads/2021/06/asesoria-2-min.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/06/asesoria-2-min.png, ../wp-content/uploads/2021/06/asesoria-2-min-200x300.png 200w" sizes="(max-width: 417px) 100vw, 417px">
 										</div>
 									</div>
 								</div>

@@ -1167,11 +1167,12 @@
 													<div class="elementor-element elementor-element-2674fe4 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2674fe4" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-1.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20la%20G%C3%B3ndola%20Central%20con%20dos%20Cabeceras%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																	<span class="elementor-button-content-wrapper">
-
-																		<span class="elementor-button-text">COTIZA AQUÍ</span>
-																	</span>
+																<a data-id="Góndola Central con dos Cabeceras" class="open-AddBookDialog">
+																	<button class="elementor-button-link elementor-button elementor-size-sm">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">COTIZA AQUÍ</span>
+																		</span>
+																	</button>
 																</a>
 															</div>
 														</div>
@@ -1243,11 +1244,12 @@
 													<div class="elementor-element elementor-element-281ceff elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="281ceff" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-2.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20la%20G%C3%B3ndola%20Pared%20Troquelada%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																	<span class="elementor-button-content-wrapper">
-
-																		<span class="elementor-button-text">COTIZA AQUÍ</span>
-																	</span>
+																<a data-id="Góndola Pared Troquelada" class="open-AddBookDialog">
+																	<button class="elementor-button-link elementor-button elementor-size-sm">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">COTIZA AQUÍ</span>
+																		</span>
+																	</button>
 																</a>
 															</div>
 														</div>
@@ -1299,11 +1301,12 @@
 													<div class="elementor-element elementor-element-7cb7458 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="7cb7458" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-3.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20la%20G%C3%B3ndola%20Central%20para%20Snack%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																	<span class="elementor-button-content-wrapper">
-
-																		<span class="elementor-button-text">COTIZA AQUÍ</span>
-																	</span>
+																<a data-id="Góndola Central para Snack" class="open-AddBookDialog">
+																	<button class="elementor-button-link elementor-button elementor-size-sm">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">COTIZA AQUÍ</span>
+																		</span>
+																	</button>
 																</a>
 															</div>
 														</div>
@@ -1364,11 +1367,12 @@
 													<div class="elementor-element elementor-element-1d3fb9c elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="1d3fb9c" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-4.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20sobre%20la%20G%C3%B3ndola%20Central%20de%20Malla%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																	<span class="elementor-button-content-wrapper">
-
-																		<span class="elementor-button-text">COTIZA AQUÍ</span>
-																	</span>
+																<a data-id="Góndola Central de Malla" class="open-AddBookDialog">
+																	<button class="elementor-button-link elementor-button elementor-size-sm">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">COTIZA AQUÍ</span>
+																		</span>
+																	</button>
 																</a>
 															</div>
 														</div>
@@ -1414,7 +1418,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-5.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">
@@ -1445,56 +1449,80 @@
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/gondola-de-pared-2.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/gondola-de-pared-2.jpg" class="jet-carousel__item-img" alt="Góndola de Pared" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola de Pared</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-6.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20de%20Pared%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola de Pared</h5>
+																		<a data-id="Góndola de Pared" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/gondola-central-con-2-cabeceras-troqueladas.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/gondola-central-con-2-cabeceras-troqueladas.jpg" class="jet-carousel__item-img" alt="Góndola Central con 2 Cabeceras Troqueladas" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola Central con 2 Cabeceras Troquelada</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-7.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Central%20con%202%20Cabeceras%20Troquelada%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola Central con 2 Cabeceras Troquelada</h5>
+																		<a data-id="Góndola Central con 2 Cabeceras Troquelada" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/gondola-central-de-malla-2.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/gondola-central-de-malla-2.jpg" class="jet-carousel__item-img" alt="Góndola Central de Malla" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola Central de Malla</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-8.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Central%20de%20Malla%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola Central de Malla</h5>
+																		<a data-id="Góndola Central de Malla" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/gondola-de-pared-con-ganchos.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/gondola-de-pared-con-ganchos.jpg" class="jet-carousel__item-img" alt="Góndola de Pared con Ganchos" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola de Pared con Ganchos</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-9.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20de%20Pared%20con%20Ganchos%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola de Pared con Ganchos</h5>
+																		<a data-id="Góndola de Pared con Ganchos" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/07/gondola-central-color-personalizado.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/07/gondola-central-color-personalizado.jpg" class="jet-carousel__item-img" alt="Góndola  Central Color Personalizado" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola Central Color Personalizado</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-10.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Central%20Color%20Personalizado%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola Central Color Personalizado</h5>
+																		<a data-id="Góndola Central Color Personalizado" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/07/gondola-de-pared-esquinera-min.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/07/gondola-de-pared-esquinera-min.jpg" class="jet-carousel__item-img" alt="Góndola de Pared Esquinera" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola de Pared Esquinera</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-11.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20de%20Pared%20Esquinera%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola de Pared Esquinera</h5>
+																		<a data-id="Góndola de Pared Esquinera" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/gondola-central-con-1-cabecera-1.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/gondola-central-con-1-cabecera-1.jpg" class="jet-carousel__item-img" alt="Góndola Central con 1 Cabecera" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola Central con 1 Cabecera</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-12.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Central%20con%201%20Cabecera%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola Central con 1 Cabecera</h5>
+																		<a data-id="Góndola Central con 1 Cabecera" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/gondola-cabecera-de-malla-1.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/gondola-cabecera-de-malla-1.jpg" class="jet-carousel__item-img" alt="Góndola Cabecera de Malla" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola Cabecera de Malla</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-13.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Cabecera%20de%20Malla%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola Cabecera de Malla</h5>
+																		<a data-id="Góndola Cabecera de Malla" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
@@ -1528,7 +1556,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-14.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20asesor%C3%ADa%20de%20implementaci%C3%B3n%20de%20proyectos%20%F0%9F%98%80" target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">
@@ -1548,7 +1576,7 @@
 								<div class="elementor-widget-wrap elementor-element-populated">
 									<div class="elementor-element elementor-element-fc25204 elementor-invisible elementor-widget elementor-widget-image" data-id="fc25204" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 										<div class="elementor-widget-container">
-											<img width="417" height="626" src="https://nuova-retail.com/wp-content/uploads/2021/06/asesoria-2-min.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://nuova-retail.com/wp-content/uploads/2021/06/asesoria-2-min.png, ../wp-content/uploads/2021/06/asesoria-2-min-200x300.png 200w" sizes="(max-width: 417px) 100vw, 417px">
+											<img width="417" height="626" src="../wp-content/uploads/2021/06/asesoria-2-min.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/06/asesoria-2-min.png, ../wp-content/uploads/2021/06/asesoria-2-min-200x300.png 200w" sizes="(max-width: 417px) 100vw, 417px">
 										</div>
 									</div>
 								</div>

@@ -1030,7 +1030,7 @@
 										<ul id="menu-1-f30b870" class="elementor-nav-menu">
 											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-35"><a href=".." class="elementor-item">Inicio</a></li>
 											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="../gondolas-metalicas" class="elementor-item">Góndolas Metálicas</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-351 current_page_item menu-item-382"><a href="index.htm" aria-current="page" class="elementor-item elementor-item-active">Góndolas Melamina</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-351 current_page_item menu-item-382"><a href="" aria-current="page" class="elementor-item elementor-item-active">Góndolas Melamina</a></li>
 											<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-466"><a href="#" class="elementor-item elementor-item-anchor">Muebles</a>
 												<ul class="sub-menu elementor-nav-menu--dropdown">
 													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="../modulos-de-pago" class="elementor-sub-item">Módulos de Pago</a></li>
@@ -1051,7 +1051,7 @@
 										<ul id="menu-2-f30b870" class="elementor-nav-menu">
 											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-35"><a href=".." class="elementor-item">Inicio</a></li>
 											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="../gondolas-metalicas" class="elementor-item">Góndolas Metálicas</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-351 current_page_item menu-item-382"><a href="index.htm" aria-current="page" class="elementor-item elementor-item-active">Góndolas Melamina</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-351 current_page_item menu-item-382"><a href="" aria-current="page" class="elementor-item elementor-item-active">Góndolas Melamina</a></li>
 											<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-466"><a href="#" class="elementor-item elementor-item-anchor">Muebles</a>
 												<ul class="sub-menu elementor-nav-menu--dropdown">
 													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="../modulos-de-pago" class="elementor-sub-item">Módulos de Pago</a></li>
@@ -1114,7 +1114,7 @@
 									<div class="elementor-element elementor-element-22583b4 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="22583b4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="text-editor.default">
 										<div class="elementor-widget-container">
 											<div class="container">
-												<p>Las <a href="index.htm"><strong>Góndolas de Melamina</strong></a> de Nuova Retail son ideales para la exhibición de productos livianos de forma novedosa y atractiva para el cliente. Este tipo de mueble lo producimos con <strong>diseños personalizados</strong> que se adecuan a los espacios haciéndolos más atractivos atractivos para el público que visita su tienda o minimarket, garantizando el éxito de su proyecto.</p>
+												<p>Las <a href=""><strong>Góndolas de Melamina</strong></a> de Nuova Retail son ideales para la exhibición de productos livianos de forma novedosa y atractiva para el cliente. Este tipo de mueble lo producimos con <strong>diseños personalizados</strong> que se adecuan a los espacios haciéndolos más atractivos atractivos para el público que visita su tienda o minimarket, garantizando el éxito de su proyecto.</p>
 											</div>
 										</div>
 									</div>
@@ -1159,10 +1159,12 @@
 													<div class="elementor-element elementor-element-2674fe4 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2674fe4" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-15.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Central%20con%20dos%20Cabeceras%20de%20Melamina%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																	<span class="elementor-button-content-wrapper">
-																		<span class="elementor-button-text">COTIZA AQUÍ</span>
-																	</span>
+															<a data-id="Góndola Central con dos Cabeceras de Melamina" class="open-AddBookDialog">
+																	<button class="elementor-button-link elementor-button elementor-size-sm">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">COTIZA AQUÍ</span>
+																		</span>
+																	</button>
 																</a>
 															</div>
 														</div>
@@ -1223,10 +1225,12 @@
 													<div class="elementor-element elementor-element-281ceff elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="281ceff" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-16.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Pared%20de%20Melamina%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																	<span class="elementor-button-content-wrapper">
-																		<span class="elementor-button-text">COTIZA AQUÍ</span>
-																	</span>
+															<a data-id="Góndola Pared de Melamina" class="open-AddBookDialog">
+																	<button class="elementor-button-link elementor-button elementor-size-sm">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">COTIZA AQUÍ</span>
+																		</span>
+																	</button>
 																</a>
 															</div>
 														</div>
@@ -1267,11 +1271,12 @@
 													<div class="elementor-element elementor-element-7cb7458 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="7cb7458" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-17.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Isla%20de%20Melamina%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-																	<span class="elementor-button-content-wrapper">
-																		
-																		<span class="elementor-button-text">COTIZA AQUÍ</span>
-																	</span>
+															<a data-id="Góndola Isla de Melamina" class="open-AddBookDialog">
+																	<button class="elementor-button-link elementor-button elementor-size-sm">
+																		<span class="elementor-button-content-wrapper">
+																			<span class="elementor-button-text">COTIZA AQUÍ</span>
+																		</span>
+																	</button>
 																</a>
 															</div>
 														</div>
@@ -1327,7 +1332,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-5.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">
@@ -1358,35 +1363,50 @@
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/Gondola-cabecera-de-melamina.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/Gondola-cabecera-de-melamina.jpg" class="jet-carousel__item-img" alt="Gondola Cabecera de Melamina" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola Cabecera de Melamina</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-18.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Cabecera%20de%20Melamina%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola Cabecera de Melamina</h5>
+																		<a data-id="Góndola Cabecera de Melamina" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/gondola-central-de-melamina-1.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/gondola-central-de-melamina-1.jpg" class="jet-carousel__item-img" alt="Góndola Central de Melamina" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola Central de Melamina</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-19.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Central%20de%20Melamina%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola Central de Melamina</h5>
+																		<a data-id="Góndola Central de Melamina" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/gondola-central-con-1-cabecera-de-melamina.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/gondola-central-con-1-cabecera-de-melamina.jpg" class="jet-carousel__item-img" alt="Góndola Central con 1 Cabecera de Melamina" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola Central con 1 Cabecera de Melamina</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-20.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Central%20con%201%20Cabecera%20de%20Melamina%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola Central con 1 Cabecera de Melamina</h5>
+																		<a data-id="Góndola Central con 1 Cabecera de Melamina" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/gondola-piramidal-de-melamina.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/gondola-piramidal-de-melamina.jpg" class="jet-carousel__item-img" alt="Góndola Piramidal de Melamina" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola Piramidal de Melamina</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-21.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Piramidal%20de%20Melamina%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola Piramidal de Melamina</h5>
+																		<a data-id="Góndola Piramidal de Melamina" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
 															<div class="jet-carousel__item">
 																<div class="jet-carousel__item-inner"><a href="../wp-content/uploads/2021/06/gondola-melamine-isla.jpg" class="jet-carousel__item-link" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9a1b855"><img src="../wp-content/uploads/2021/06/gondola-melamine-isla.jpg" class="jet-carousel__item-img" alt="Góndola Melamine Isla" loading="lazy"></a>
 																	<div class="jet-carousel__content">
-																		<h5 class="jet-carousel__item-title">Góndola Melamina Isla</h5><a class="elementor-button elementor-size-md jet-carousel__item-button" href="../send-22.html?phone=51912151653&text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Melamine%2Isla%20%F0%9F%98%80" target="_blank" rel="nofollow">CONSULTA AHORA</a>
+																		<h5 class="jet-carousel__item-title">Góndola Melamina Isla</h5>
+																		<a data-id="Góndola Melamina Isla" class="open-AddBookDialog">
+																			<button class="elementor-button elementor-size-md jet-carousel__item-button">CONSULTA AHORA</button>
+																		</a>
 																	</div>
 																</div>
 															</div>
@@ -1420,7 +1440,7 @@
 										<div class="elementor-widget-container">
 											<div class="elementor-jet-button jet-elements">
 												<div class="jet-button__container">
-													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="../send-14.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20asesor%C3%ADa%20de%20implementaci%C3%B3n%20de%20proyectos%20%F0%9F%98%80" target="_blank" rel="nofollow">
+													<a class="jet-button__instance jet-button__instance--icon-left hover-effect-7" href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 														<div class="jet-button__plane jet-button__plane-normal"></div>
 														<div class="jet-button__plane jet-button__plane-hover"></div>
 														<div class="jet-button__state jet-button__state-normal">
@@ -1440,7 +1460,7 @@
 								<div class="elementor-widget-wrap elementor-element-populated">
 									<div class="elementor-element elementor-element-fc25204 elementor-invisible elementor-widget elementor-widget-image" data-id="fc25204" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 										<div class="elementor-widget-container">
-											<img width="417" height="626" src="https://nuova-retail.com/wp-content/uploads/2021/06/asesoria-2-min.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://nuova-retail.com/wp-content/uploads/2021/06/asesoria-2-min.png, ../wp-content/uploads/2021/06/asesoria-2-min-200x300.png 200w" sizes="(max-width: 417px) 100vw, 417px">
+											<img width="417" height="626" src="../wp-content/uploads/2021/06/asesoria-2-min.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/06/asesoria-2-min.png, ../wp-content/uploads/2021/06/asesoria-2-min-200x300.png 200w" sizes="(max-width: 417px) 100vw, 417px">
 										</div>
 									</div>
 								</div>
@@ -1687,7 +1707,7 @@
 												</a>
 											</li>
 											<li class="elementor-icon-list-item">
-												<a href="index.htm">
+												<a href="">
 
 													<span class="elementor-icon-list-text">Góndolas Melamina</span>
 												</a>

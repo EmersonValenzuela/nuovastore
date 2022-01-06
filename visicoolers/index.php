@@ -1146,11 +1146,13 @@
 									<div class="elementor-element elementor-element-7c7ac6f elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="7c7ac6f" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-66.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20Visicooler%20de%20370%20L.%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-													<span class="elementor-button-content-wrapper">
-														
-														<span class="elementor-button-text">COTIZA AQUÍ</span>
-													</span>
+												<a data-id="Visicooler de 370 L" title="Visicooler de 370 L" class="open-AddBookDialog">
+													<button class="elementor-button-link elementor-button elementor-size-sm" role="button">
+														<span class="elementor-button-content-wrapper">
+
+															<span class="elementor-button-text">COTIZA AQUÍ</span>
+														</span>
+													</button>
 												</a>
 											</div>
 										</div>
@@ -1173,11 +1175,13 @@
 									<div class="elementor-element elementor-element-c06b9e1 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="c06b9e1" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-67.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20Visicooler%20de%20540%20L.%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-													<span class="elementor-button-content-wrapper">
-														
-														<span class="elementor-button-text">COTIZA AQUÍ</span>
-													</span>
+												<a data-id="Visicooler de 540 L" title="Visicooler de 540 L" class="open-AddBookDialog">
+													<button class="elementor-button-link elementor-button elementor-size-sm">
+														<span class="elementor-button-content-wrapper">
+
+															<span class="elementor-button-text">COTIZA AQUÍ</span>
+														</span>
+													</button>
 												</a>
 											</div>
 										</div>
@@ -1200,12 +1204,13 @@
 									<div class="elementor-element elementor-element-0538a7f elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="0538a7f" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-68.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20Visicooler%20de%20600%20L.%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Visicooler de 600 L" title="Visicooler de 600 L" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
-												</a>
+												</button>
+											</a>
 											</div>
 										</div>
 									</div>
@@ -1227,12 +1232,14 @@
 									<div class="elementor-element elementor-element-2071682 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2071682" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-69.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20Visicooler%20de%20800%20L.%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Visicooler de 800 L" title="Visicooler de 800 L" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														
+
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
-												</a>
+												</button>
+											</a>
 											</div>
 										</div>
 									</div>
@@ -1258,11 +1265,12 @@
 									<div class="elementor-element elementor-element-d7227bd elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="d7227bd" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-70.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20Visicooler%20de%20850%20G.%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Visicooler de 850 G" title="Visicooler de 850 G" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1285,11 +1293,12 @@
 									<div class="elementor-element elementor-element-e4c853b elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="e4c853b" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-71.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20Visicooler%20de%201000%20LS.%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Visicooler de 1000 LS" title="Visicooler de 1000 LS" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1312,11 +1321,12 @@
 									<div class="elementor-element elementor-element-00734b3 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="00734b3" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-72.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20Visicooler%20de%201200%20L%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Visicooler de 1200 L" title="Visicooler de 1200 L" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
@@ -1339,11 +1349,12 @@
 									<div class="elementor-element elementor-element-c020653 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="c020653" data-element_type="widget" data-widget_type="button.default">
 										<div class="elementor-widget-container">
 											<div class="elementor-button-wrapper">
-												<a href="../send-73.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20Visicooler%20F%20de%20370W%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+											<a data-id="Visicooler F de 370 W" title="Visicooler F de 370 W" class="open-AddBookDialog">
+												<button class="elementor-button-link elementor-button elementor-size-sm">
 													<span class="elementor-button-content-wrapper">
-														
 														<span class="elementor-button-text">COTIZA AQUÍ</span>
 													</span>
+												</button>
 												</a>
 											</div>
 										</div>
