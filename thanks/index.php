@@ -844,7 +844,7 @@
 											</a>
 										</li>
 										<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="../send.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+											<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 
 												<span class="elementor-icon-list-icon">
 													<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
@@ -1002,7 +1002,7 @@
 													<div class="elementor-element elementor-element-2674fe4 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2674fe4" data-element_type="widget" data-widget_type="button.default">
 														<div class="elementor-widget-container">
 															<div class="elementor-button-wrapper">
-																<a href="../send-15.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Central%20con%20dos%20Cabeceras%20de%20Melamina%20%F0%9F%98%80" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+																<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 																	<span class="elementor-button-content-wrapper">
 																		<span class="elementor-button-icon elementor-align-icon-left">
 																			<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
@@ -1104,7 +1104,7 @@
 												</a>
 											</li>
 											<li class="elementor-icon-list-item elementor-inline-item">
-												<a href="../send.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+												<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 
 													<span class="elementor-icon-list-icon">
 														<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>

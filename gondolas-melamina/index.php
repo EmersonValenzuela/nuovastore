@@ -947,7 +947,7 @@
 											</a>
 										</li>
 										<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="../send.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+											<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 
 												<span class="elementor-icon-list-icon												<span class="elementor-icon-list-icon">
 													<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>">
@@ -1137,7 +1137,7 @@
 								<div class="elementor-widget-wrap elementor-element-populated">
 									<div class="elementor-element elementor-element-ef1b763 elementor-widget elementor-widget-heading" data-id="ef1b763" data-element_type="widget" data-widget_type="heading.default">
 										<div class="elementor-widget-container">
-											<h2 class="elementor-heading-title elementor-size-default"><a href="../send-15.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Central%20con%20dos%20Cabeceras%20de%20Melamina%20%F0%9F%98%80">Góndola Central con dos Cabeceras de Melamina</a></h2>
+											<h2 class="elementor-heading-title elementor-size-default"><a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos">Góndola Central con dos Cabeceras de Melamina</a></h2>
 										</div>
 									</div>
 									<div class="elementor-element elementor-element-fc325ef elementor-widget elementor-widget-text-editor" data-id="fc325ef" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1203,7 +1203,7 @@
 								<div class="elementor-widget-wrap elementor-element-populated">
 									<div class="elementor-element elementor-element-3e39454 elementor-widget elementor-widget-heading" data-id="3e39454" data-element_type="widget" data-widget_type="heading.default">
 										<div class="elementor-widget-container">
-											<h2 class="elementor-heading-title elementor-size-default"><a href="../send-16.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Pared%20de%20Melamina%20%F0%9F%98%80">Góndola Pared de Melamina</a></h2>
+											<h2 class="elementor-heading-title elementor-size-default"><a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos">Góndola Pared de Melamina</a></h2>
 										</div>
 									</div>
 									<div class="elementor-element elementor-element-0a17200 elementor-widget elementor-widget-text-editor" data-id="0a17200" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1249,7 +1249,7 @@
 								<div class="elementor-widget-wrap elementor-element-populated">
 									<div class="elementor-element elementor-element-5c6b9d3 elementor-widget elementor-widget-heading" data-id="5c6b9d3" data-element_type="widget" data-widget_type="heading.default">
 										<div class="elementor-widget-container">
-											<h2 class="elementor-heading-title elementor-size-default"><a href="../send-17.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20%20Solicito%20una%20cotizaci%C3%B3n%20de%20la%20G%C3%B3ndola%20Isla%20de%20Melamina%20%F0%9F%98%80">Góndola Isla de Melamina</a></h2>
+											<h2 class="elementor-heading-title elementor-size-default"><a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos">Góndola Isla de Melamina</a></h2>
 										</div>
 									</div>
 									<div class="elementor-element elementor-element-3d25600 elementor-widget elementor-widget-text-editor" data-id="3d25600" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1678,7 +1678,7 @@
 												</a>
 											</li>
 											<li class="elementor-icon-list-item elementor-inline-item">
-												<a href="../send.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+												<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 
 													<span class="elementor-icon-list-icon">
 														<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>

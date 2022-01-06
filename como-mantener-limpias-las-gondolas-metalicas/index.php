@@ -181,7 +181,7 @@ gtag("config", "G-YKG1M06XRJ");
 											</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="../send.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+											<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fab fa-whatsapp"></i>						</span>
@@ -415,7 +415,7 @@ gtag("config", "G-YKG1M06XRJ");
 											</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="../send.html?phone=51912151653&#038;text=%C2%A1Hola!%20%F0%9F%91%8B%20Solicito%20una%20cotizaci%C3%B3n%20sobre..." target="_blank" rel="nofollow">
+											<a href="https://api.whatsapp.com/send?phone=51912151653&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos" target="_blank" rel="nofollow">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fab fa-whatsapp"></i>						</span>
